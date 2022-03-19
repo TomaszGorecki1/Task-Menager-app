@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "p+l7QV9ZbYEgX2fH7SZ8Lytmx4AbPC75R5lvt5gcs6iOJ5OEFgVndLCwX8b+xz4mTEVuE98dxUJi1mZhuY+hJQ==",
+  "success": true,
+  "projectFilePath": "D:\\GIT\\Task-Menager-app-connected-to-the-website\\TaskMenager\\TaskMenager\\TaskMenager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tomig\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tomig\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\tomig\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\tomig\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\tomig\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
