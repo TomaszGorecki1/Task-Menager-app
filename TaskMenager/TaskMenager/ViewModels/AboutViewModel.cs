@@ -10,7 +10,7 @@ namespace TaskMenager.ViewModels
         public AboutViewModel()
         {
             Title = "About";
-            OpenWebCommand = new Command(async () => await Browser.OpenAsync("https://aka.ms/xamarin-quickstart"));
+            OpenWebCommand = new Command(async () => await Browser.OpenAsync("https://github.com/TomaszGorecki1/Task-Menager-app"));
         }
 
         public ICommand OpenWebCommand { get; }
