@@ -10,6 +10,8 @@ namespace TaskMenager.Views
         public AboutPage()
         {
             InitializeComponent();
+
+           
         }
     }
 }

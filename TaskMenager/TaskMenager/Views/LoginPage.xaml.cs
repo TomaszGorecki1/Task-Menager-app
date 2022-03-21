@@ -16,6 +16,8 @@ namespace TaskMenager.Views
         {
             InitializeComponent();
             this.BindingContext = new LoginViewModel();
+            var assembly = typeof(AboutPage).Assembly;
+            iconImage.Source = ImageSource.FromResource("TaskMenager.Assets.Images.xamarin_logo.png", assembly);
         }
     }
 }

@@ -27,6 +27,7 @@
                 <ContentView Padding="0,40,0,40" VerticalOptions="FillAndExpand">
                     <Label Text="Tasks" TextColor="Green" FontSize="Header" FontAttributes="Bold"></Label>
                 </ContentView>
+                
             </StackLayout>
         </StackLayout>
         <ScrollView Grid.Row="1">
