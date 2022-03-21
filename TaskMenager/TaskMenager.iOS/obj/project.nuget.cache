@@ -1,10 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "b43pBHFBXCHcks1TH7fRPQBUHRhMqrJg9IOIZnuxgbRDPAodDudpx9MCC3zrDWwxirMNoxX6MxwTN4iUjTZC5w==",
+  "dgSpecHash": "ptEIh9KtQL0BMcsT4vgeWCiIaFZFXkALgaTGQpuHSH7pWYTZ8KXAl6/CaSiiRiE3mBzzr2qM4ja6eCHxC3lZzg==",
   "success": true,
   "projectFilePath": "D:\\GIT\\Task-Menager-app-connected-to-the-website\\TaskMenager\\TaskMenager.iOS\\TaskMenager.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\tomig\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\tomig\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\tomig\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\tomig\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "C:\\Users\\tomig\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\tomig\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\tomig\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\tomig\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Users\\tomig\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\tomig\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],

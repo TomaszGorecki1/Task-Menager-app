@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using SQLite;
+using SQLitePCL;
 
 namespace TaskMenager
 {
@@ -16,5 +18,12 @@ namespace TaskMenager
         {
             InitializeComponent();
         }
+
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+            
+        }
+
     }
 }
