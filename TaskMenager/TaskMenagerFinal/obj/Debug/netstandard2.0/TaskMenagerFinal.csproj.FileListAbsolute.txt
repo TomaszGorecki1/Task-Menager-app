@@ -1,0 +1,15 @@
+D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal\bin\Debug\netstandard2.0\TaskMenagerFinal.deps.json
+D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal\bin\Debug\netstandard2.0\TaskMenagerFinal.dll
+D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal\bin\Debug\netstandard2.0\TaskMenagerFinal.pdb
+D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal\obj\Debug\netstandard2.0\TaskMenagerFinal.csproj.AssemblyReference.cache
+D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal\obj\Debug\netstandard2.0\TaskMenagerFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal\obj\Debug\netstandard2.0\TaskMenagerFinal.AssemblyInfoInputs.cache
+D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal\obj\Debug\netstandard2.0\TaskMenagerFinal.AssemblyInfo.cs
+D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal\obj\Debug\netstandard2.0\TaskMenagerFinal.csproj.CoreCompileInputs.cache
+D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal\obj\Debug\netstandard2.0\XamlC.stamp
+D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal\obj\Debug\netstandard2.0\TaskMenagerFinal.dll
+D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal\obj\Debug\netstandard2.0\refint\TaskMenagerFinal.dll
+D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal\obj\Debug\netstandard2.0\TaskMenagerFinal.pdb
+D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal\obj\Debug\netstandard2.0\ref\TaskMenagerFinal.dll
