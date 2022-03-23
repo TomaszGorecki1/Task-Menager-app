@@ -1194,13 +1194,13 @@ public final class R {
 		public static final int config_tooltipAnimTime = 0x7f090006;
 		public static final int design_snackbar_text_max_lines = 0x7f090007;
 		public static final int design_tab_indicator_anim_duration_ms = 0x7f090008;
-		public static final int hide_password_duration = 0x7f090009;
-		public static final int mtrl_btn_anim_delay_ms = 0x7f090012;
-		public static final int mtrl_btn_anim_duration_ms = 0x7f090013;
-		public static final int mtrl_chip_anim_duration = 0x7f090019;
-		public static final int mtrl_tab_indicator_anim_duration_ms = 0x7f09001a;
-		public static final int show_password_duration = 0x7f09001b;
-		public static final int status_bar_notification_info_maxnum = 0x7f09001c;
+		public static final int hide_password_duration = 0x7f09000a;
+		public static final int mtrl_btn_anim_delay_ms = 0x7f090013;
+		public static final int mtrl_btn_anim_duration_ms = 0x7f090014;
+		public static final int mtrl_chip_anim_duration = 0x7f09001a;
+		public static final int mtrl_tab_indicator_anim_duration_ms = 0x7f09001b;
+		public static final int show_password_duration = 0x7f09001c;
+		public static final int status_bar_notification_info_maxnum = 0x7f09001d;
 	}
 	public static final class interpolator {
 		public static final int mtrl_fast_out_linear_in = 0x7f0a0007;
@@ -1296,19 +1296,19 @@ public final class R {
 		public static final int bottom_sheet_behavior = 0x7f0e001c;
 		public static final int character_counter_content_description = 0x7f0e001e;
 		public static final int character_counter_pattern = 0x7f0e0020;
-		public static final int fab_transformation_scrim_behavior = 0x7f0e0028;
-		public static final int fab_transformation_sheet_behavior = 0x7f0e0029;
-		public static final int hide_bottom_view_on_scroll_behavior = 0x7f0e002d;
-		public static final int mtrl_chip_close_icon_content_description = 0x7f0e0045;
-		public static final int nav_app_bar_navigate_up_description = 0x7f0e0067;
-		public static final int nav_app_bar_open_drawer_description = 0x7f0e0068;
-		public static final int password_toggle_content_description = 0x7f0e006b;
-		public static final int path_password_eye = 0x7f0e006c;
-		public static final int path_password_eye_mask_strike_through = 0x7f0e006d;
-		public static final int path_password_eye_mask_visible = 0x7f0e006e;
-		public static final int path_password_strike_through = 0x7f0e006f;
-		public static final int search_menu_title = 0x7f0e0071;
-		public static final int status_bar_notification_info_overflow = 0x7f0e0072;
+		public static final int fab_transformation_scrim_behavior = 0x7f0e0029;
+		public static final int fab_transformation_sheet_behavior = 0x7f0e002a;
+		public static final int hide_bottom_view_on_scroll_behavior = 0x7f0e002e;
+		public static final int mtrl_chip_close_icon_content_description = 0x7f0e0046;
+		public static final int nav_app_bar_navigate_up_description = 0x7f0e0068;
+		public static final int nav_app_bar_open_drawer_description = 0x7f0e0069;
+		public static final int password_toggle_content_description = 0x7f0e006c;
+		public static final int path_password_eye = 0x7f0e006d;
+		public static final int path_password_eye_mask_strike_through = 0x7f0e006e;
+		public static final int path_password_eye_mask_visible = 0x7f0e006f;
+		public static final int path_password_strike_through = 0x7f0e0070;
+		public static final int search_menu_title = 0x7f0e0072;
+		public static final int status_bar_notification_info_overflow = 0x7f0e0073;
 	}
 	public static final class style {
 		public static final int AlertDialog_AppCompat = 0x7f0f0000;

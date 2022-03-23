@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ptEIh9KtQL0BMcsT4vgeWCiIaFZFXkALgaTGQpuHSH7pWYTZ8KXAl6/CaSiiRiE3mBzzr2qM4ja6eCHxC3lZzg==",
+  "dgSpecHash": "m5CNT88nVUyEYxRibg87W7E4DzpsY3wqrxkFcAeXkhImRtXNcNDYHvd36VTZGaJihJskvZCZUySaf1Ho4LT2+g==",
   "success": true,
   "projectFilePath": "D:\\GIT\\Task-Menager-app-connected-to-the-website\\TaskMenager\\TaskMenager.iOS\\TaskMenager.iOS.csproj",
   "expectedPackageFiles": [
@@ -12,7 +12,10 @@
     "C:\\Users\\tomig\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\tomig\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\tomig\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\tomig\\.nuget\\packages\\xamarin.build.download\\0.11.0\\xamarin.build.download.0.11.0.nupkg.sha512",
     "C:\\Users\\tomig\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\tomig\\.nuget\\packages\\xamarin.firebase.ios.auth\\8.10.0\\xamarin.firebase.ios.auth.8.10.0.nupkg.sha512",
+    "C:\\Users\\tomig\\.nuget\\packages\\xamarin.firebase.ios.core\\8.10.0\\xamarin.firebase.ios.core.8.10.0.nupkg.sha512",
     "C:\\Users\\tomig\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
   "logs": []

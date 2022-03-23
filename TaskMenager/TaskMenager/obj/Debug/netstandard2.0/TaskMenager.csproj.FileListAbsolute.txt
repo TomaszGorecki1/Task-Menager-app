@@ -18,3 +18,4 @@ D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenager\obj\Deb
 D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenager\obj\Debug\netstandard2.0\refint\TaskMenager.dll
 D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenager\obj\Debug\netstandard2.0\TaskMenager.pdb
 D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenager\obj\Debug\netstandard2.0\ref\TaskMenager.dll
+D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenager\obj\Debug\netstandard2.0\Page1.xaml.g.cs
