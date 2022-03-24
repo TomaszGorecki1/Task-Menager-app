@@ -3,13 +3,21 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="TaskMenagerFinal.MainPage">
 
-    <StackLayout BackgroundColor="Black">
-        
-        <Label Text="Matrix" TextColor="Green" FontSize="Header" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" />
-        <StackLayout Margin="15,15,15,15" BackgroundColor="#3f3d3b">
-            <Entry Placeholder="Login" PlaceholderColor="Green" FontSize="Medium" TextColor="Green"/>
-            <Button Text="Login" Clicked="Button_Clicked"/>
-        </StackLayout>
-    </StackLayout>
+    <StackLayout  VerticalOptions="Center">
 
+
+
+        <Entry x:Name="emailEntry"  Margin="15"
+                   Placeholder="e-mail@domain.com" TextColor="Black" Keyboard="Email"/>
+        <Entry x:Name="passwordEntry" Margin="15"
+                   Placeholder="YourPassword1234@"
+                   IsPassword="True"
+                   TextColor="Black" 
+                   />
+        <Button x:Name="LoginButton" Text="Login"  Margin="15"
+                    BackgroundColor="#262d2d"
+                    TextColor="White" 
+                    Clicked="LoginButton_Clicked"/>
+
+    </StackLayout>
 </ContentPage>
