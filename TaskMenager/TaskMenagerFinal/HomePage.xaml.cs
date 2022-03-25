@@ -10,11 +10,16 @@ using Xamarin.Forms.Xaml;
 namespace TaskMenagerFinal
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class HomePage : ContentPage
+    public partial class HomePage : TabbedPage
     {
         public HomePage()
         {
             InitializeComponent();
+        }
+
+        private void ToolbarItem_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new NewTravelPage());
         }
     }
 }

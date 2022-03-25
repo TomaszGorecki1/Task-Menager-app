@@ -3,6 +3,16 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="TaskMenagerFinal.App">
     <Application.Resources>
+        <ResourceDictionary>
+            <Color x:Key="darkGray">#333333</Color>
+            <Color x:Key="white">#FFFFFF</Color>
 
+            <Style x:Key="normalButton" TargetType="Button">
+
+                <Setter Property="BackgroundColor" Value="{StaticResource darkGray}"/>
+                <Setter Property="TextColor" Value="{StaticResource white}"/>
+
+            </Style>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>

@@ -14,3 +14,7 @@ D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal\ob
 D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal\obj\Debug\netstandard2.0\TaskMenagerFinal.pdb
 D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal\obj\Debug\netstandard2.0\ref\TaskMenagerFinal.dll
 D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal\obj\Debug\netstandard2.0\HistoryPage.xaml.g.cs
+D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal\obj\Debug\netstandard2.0\MapPage.xaml.g.cs
+D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal\obj\Debug\netstandard2.0\ProfilePage.xaml.g.cs
+D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal\obj\Debug\netstandard2.0\NewTravelPage.xaml.g.cs

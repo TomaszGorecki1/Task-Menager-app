@@ -3,6 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="TaskMenagerFinal.MainPage">
 
+    
     <StackLayout  VerticalOptions="Center">
 
 
@@ -15,9 +16,11 @@
                    TextColor="Black" 
                    />
         <Button x:Name="LoginButton" Text="Login"  Margin="15"
-                    BackgroundColor="#262d2d"
+                    BackgroundColor="{StaticResource darkGray}"
                     TextColor="White" 
-                    Clicked="LoginButton_Clicked"/>
+                    Clicked="LoginButton_Clicked"
+                    Style="{StaticResource Key=normalButton}"
+                />
 
     </StackLayout>
 </ContentPage>
