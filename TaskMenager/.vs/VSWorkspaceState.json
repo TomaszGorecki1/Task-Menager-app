@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\TaskMenagerFinal"
+    "\\TaskMenagerFinal",
+    "\\TaskMenagerFinal.iOS"
   ],
-  "SelectedNode": "\\TaskMenagerFinal.sln",
+  "SelectedNode": "\\TaskMenagerFinal.iOS\\AppDelegate.cs",
   "PreviewInSolutionExplorer": false
 }

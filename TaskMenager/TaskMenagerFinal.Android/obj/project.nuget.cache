@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "g7L7P05d2Td9aQ8hsKrQEIielKW78JNP//VfKr7Zd2mYmr6Jb6NjpDmiR0LNByBrH11wOH1L9/2wvrp/0VSCCw==",
+  "dgSpecHash": "qu1Qro+s/yjOpbhgQZJmFCvx+hMwswBQILfWNIBs9ixQPrxFR6TM3dYw2WaJRlh4NQdTLUXw3G9dS2KmS9xu8A==",
   "success": true,
   "projectFilePath": "D:\\GIT\\Task-Menager-app-connected-to-the-website\\TaskMenager\\TaskMenagerFinal.Android\\TaskMenagerFinal.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\tomig\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\tomig\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
     "C:\\Users\\tomig\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
     "C:\\Users\\tomig\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
