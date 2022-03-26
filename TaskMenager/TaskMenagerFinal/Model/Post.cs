@@ -8,10 +8,9 @@ namespace TaskMenagerFinal.Model
     public class Post
     {
         [PrimaryKey, AutoIncrement]
-        public int Id { get; set; } 
+        public int Id { get; set; }
 
         [MaxLength(250)]
-        public string Experience{ get; set; }
-
+        public string Experience { get; set; }
     }
 }
