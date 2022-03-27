@@ -635,3 +635,4 @@ D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal.An
 D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal.Android\obj\Debug\120\android\assets\System.Buffers.dll
 D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal.Android\obj\Debug\120\android\assets\System.Memory.dll
 D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal.Android\obj\Debug\120\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal.Android\obj\Debug\120\android\assets\Newtonsoft.Json.dll

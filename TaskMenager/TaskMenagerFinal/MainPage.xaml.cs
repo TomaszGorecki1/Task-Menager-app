@@ -13,6 +13,10 @@ namespace TaskMenagerFinal
         public MainPage()
         {
             InitializeComponent();
+
+            var assembly = typeof(MainPage);
+            iconImage.Source = ImageSource.FromResource("TaskMenagerFinal.Assets.Images.plane.png", assembly);
+
         }
 
         private void LoginButton_Clicked(object sender, EventArgs e)

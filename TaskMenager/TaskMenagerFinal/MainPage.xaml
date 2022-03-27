@@ -6,14 +6,15 @@
     
     <StackLayout  VerticalOptions="Center">
 
-
+        <Image x:Name="iconImage" Aspect="AspectFit" HorizontalOptions="FillAndExpand" Margin="0,0,0,50" HeightRequest="150"/>
 
         <Entry x:Name="emailEntry"  Margin="15"
-                   Placeholder="e-mail@domain.com" TextColor="Black" Keyboard="Email"/>
+                   Placeholder="e-mail@domain.com" TextColor="Black" Keyboard="Email" Text="Test"/>
         <Entry x:Name="passwordEntry" Margin="15"
                    Placeholder="YourPassword1234@"
                    IsPassword="True"
                    TextColor="Black" 
+                    Text="Test"
                    />
         <Button x:Name="LoginButton" Text="Login"  Margin="15"
                     BackgroundColor="{StaticResource darkGray}"
@@ -23,4 +24,6 @@
                 />
 
     </StackLayout>
+    
 </ContentPage>
+   
