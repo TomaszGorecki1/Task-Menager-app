@@ -103,3 +103,5 @@ androidx.legacy.legacy-support-core-ui.aar
 androidx.legacy.legacy-support-v4.aar
 androidx.browser.browser.aar
 SQLitePCLRaw.lib.e_sqlite3.android.dll
+Xamarin.GooglePlayServices.Basement.dll
+playservicesbasement-17.6.0.aar

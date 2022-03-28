@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1083220714530",
+    "project_id": "taskmenagerfinal",
+    "storage_bucket": "taskmenagerfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083220714530:android:fb6dc528e509e5224c167b",
+        "android_client_info": {
+          "package_name": "com.companyname.taskmenagerfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083220714530-45qooutpk2salmral5s6e572mad50tgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoa-Qta-UYppAotp7IFGmbHHa8fAFvPgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083220714530-45qooutpk2salmral5s6e572mad50tgo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1083220714530-vmuucpennjpsdql2lph7e1ahblmkr1ld.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.companyname.TaskMenagerFinal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -50,9 +50,17 @@
               "target": "Package",
               "version": "[1.7.0, )"
             },
+            "Xamarin.Firebase.Auth": {
+              "target": "Package",
+              "version": "[121.0.1.4, )"
+            },
             "Xamarin.Forms": {
               "target": "Package",
               "version": "[5.0.0.2196, )"
+            },
+            "Xamarin.GooglePlayServices.Basement": {
+              "target": "Package",
+              "version": "[117.6.0.4, )"
             },
             "sqlite-net-pcl": {
               "target": "Package",
