@@ -25,6 +25,11 @@ namespace TaskMenagerFinal.iOS
         {
             global::Xamarin.Forms.Forms.Init();
 
+
+            Firebase.Core.App.Configure();
+
+
+
             string dbName = "task_db.sqlite";
             string folderPath = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "..", "Library");
             string fullPath = Path.Combine(folderPath, dbName);
