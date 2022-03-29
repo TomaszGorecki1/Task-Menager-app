@@ -20,7 +20,7 @@ namespace TaskMenagerFinal
 
         }
 
-        private void LoginButton_Clicked(object sender, EventArgs e)
+        async void LoginButton_Clicked(object sender, EventArgs e)
         {
 
             bool isEmailEmpty=string.IsNullOrEmpty(emailEntry.Text);
@@ -33,9 +33,10 @@ namespace TaskMenagerFinal
             else
             {
                 //authenticate
-                Auth.LoginUser(emailEntry.Text, passwordEntry.Text);
+                bool result = await Auth.LoginUser(emailEntry.Text, passwordEntry.Text);
                 // navigate
-                Navigation.PushAsync(new HomePage());
+                if(result)
+                   await Navigation.PushAsync(new HomePage());
             }
         }
     }

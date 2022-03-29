@@ -8,6 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 using TaskMenagerFinal.Helpers;
 using Xamarin.Forms;
 
@@ -30,12 +31,12 @@ namespace TaskMenagerFinal.Droid.Dependencies
             throw new NotImplementedException();
         }
 
-        public bool LoginUser(string email, string password)
+        public async Task<bool> LoginUser(string email, string password)
         {
             throw new NotImplementedException();
         }
 
-        public bool RegisterUser(string email, string password)
+        public async Task<bool> RegisterUser(string email, string password)
         {
             throw new NotImplementedException();
         }
