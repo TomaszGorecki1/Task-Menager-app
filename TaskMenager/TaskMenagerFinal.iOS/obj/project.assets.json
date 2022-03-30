@@ -143,6 +143,23 @@
           "lib/xamarinios10/Firebase.Auth.dll": {}
         }
       },
+      "Xamarin.Firebase.iOS.CloudFirestore/8.10.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Build.Download": "0.11.0",
+          "Xamarin.Firebase.iOS.Core": "8.10.0"
+        },
+        "frameworkAssemblies": [
+          "System.Drawing.Common.dll",
+          "Xamarin.iOS"
+        ],
+        "compile": {
+          "lib/xamarinios10/Firebase.CloudFirestore.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Firebase.CloudFirestore.dll": {}
+        }
+      },
       "Xamarin.Firebase.iOS.Core/8.10.0": {
         "type": "package",
         "dependencies": {
@@ -442,6 +459,23 @@
         },
         "runtime": {
           "lib/xamarinios10/Firebase.Auth.dll": {}
+        }
+      },
+      "Xamarin.Firebase.iOS.CloudFirestore/8.10.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Build.Download": "0.11.0",
+          "Xamarin.Firebase.iOS.Core": "8.10.0"
+        },
+        "frameworkAssemblies": [
+          "System.Drawing.Common.dll",
+          "Xamarin.iOS"
+        ],
+        "compile": {
+          "lib/xamarinios10/Firebase.CloudFirestore.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Firebase.CloudFirestore.dll": {}
         }
       },
       "Xamarin.Firebase.iOS.Core/8.10.0": {
@@ -745,6 +779,23 @@
           "lib/xamarinios10/Firebase.Auth.dll": {}
         }
       },
+      "Xamarin.Firebase.iOS.CloudFirestore/8.10.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Build.Download": "0.11.0",
+          "Xamarin.Firebase.iOS.Core": "8.10.0"
+        },
+        "frameworkAssemblies": [
+          "System.Drawing.Common.dll",
+          "Xamarin.iOS"
+        ],
+        "compile": {
+          "lib/xamarinios10/Firebase.CloudFirestore.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Firebase.CloudFirestore.dll": {}
+        }
+      },
       "Xamarin.Firebase.iOS.Core/8.10.0": {
         "type": "package",
         "dependencies": {
@@ -1044,6 +1095,23 @@
         },
         "runtime": {
           "lib/xamarinios10/Firebase.Auth.dll": {}
+        }
+      },
+      "Xamarin.Firebase.iOS.CloudFirestore/8.10.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Build.Download": "0.11.0",
+          "Xamarin.Firebase.iOS.Core": "8.10.0"
+        },
+        "frameworkAssemblies": [
+          "System.Drawing.Common.dll",
+          "Xamarin.iOS"
+        ],
+        "compile": {
+          "lib/xamarinios10/Firebase.CloudFirestore.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Firebase.CloudFirestore.dll": {}
         }
       },
       "Xamarin.Firebase.iOS.Core/8.10.0": {
@@ -1488,6 +1556,21 @@
         "xamarin.firebase.ios.auth.nuspec"
       ]
     },
+    "Xamarin.Firebase.iOS.CloudFirestore/8.10.0": {
+      "sha512": "Ha8ckDRGVdKcqY90H4/tuVIYFPBA3zxmOb5HWUBsjbT499B6J+kpHSlo3QENY9zwMTkHklIm1Sa3OjJ94UYViQ==",
+      "type": "package",
+      "path": "xamarin.firebase.ios.cloudfirestore/8.10.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "License.md",
+        "THIRD-PARTY-NOTICES.txt",
+        "firebaseioscloudfirestore_128x128.png",
+        "lib/xamarinios10/Firebase.CloudFirestore.dll",
+        "xamarin.firebase.ios.cloudfirestore.8.10.0.nupkg.sha512",
+        "xamarin.firebase.ios.cloudfirestore.nuspec"
+      ]
+    },
     "Xamarin.Firebase.iOS.Core/8.10.0": {
       "sha512": "6sMOvWFTAATbK19q2xGr1IdOsRFKtMwgoTOy0rLcZKoZm3BTvDAscTcxBbn5lcS/fG5ZIKP6mENhrxiCqokOhQ==",
       "type": "package",
@@ -1733,6 +1816,7 @@
       "TaskMenagerFinal >= 1.0.0",
       "Xamarin.Essentials >= 1.7.0",
       "Xamarin.Firebase.iOS.Auth >= 8.10.0",
+      "Xamarin.Firebase.iOS.CloudFirestore >= 8.10.0",
       "Xamarin.Forms >= 5.0.0.2196",
       "sqlite-net-pcl >= 1.8.116"
     ]
@@ -1788,6 +1872,10 @@
             "version": "[1.7.0, )"
           },
           "Xamarin.Firebase.iOS.Auth": {
+            "target": "Package",
+            "version": "[8.10.0, )"
+          },
+          "Xamarin.Firebase.iOS.CloudFirestore": {
             "target": "Package",
             "version": "[8.10.0, )"
           },

@@ -54,6 +54,10 @@
               "target": "Package",
               "version": "[8.10.0, )"
             },
+            "Xamarin.Firebase.iOS.CloudFirestore": {
+              "target": "Package",
+              "version": "[8.10.0, )"
+            },
             "Xamarin.Forms": {
               "target": "Package",
               "version": "[5.0.0.2196, )"

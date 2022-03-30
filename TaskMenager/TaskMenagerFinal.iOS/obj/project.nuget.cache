@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6lzoWptoUrxiGcpjE3rsyLYRSWCpT81VtnJix8uSCv6JP97Q80Vs1N9MfQivq9UCiX+nudang3JHTjsSz+vteA==",
+  "dgSpecHash": "QZ1zweq2N/VGjGvgFLBZQS2Je38SuxsLQIOaela7vGCLzpn6mYlBVFOhZiVk6JE78U05yhXaWkjnULNrqeX2pA==",
   "success": true,
   "projectFilePath": "D:\\GIT\\Task-Menager-app-connected-to-the-website\\TaskMenager\\TaskMenagerFinal.iOS\\TaskMenagerFinal.iOS.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,7 @@
     "C:\\Users\\tomig\\.nuget\\packages\\xamarin.build.download\\0.11.0\\xamarin.build.download.0.11.0.nupkg.sha512",
     "C:\\Users\\tomig\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\tomig\\.nuget\\packages\\xamarin.firebase.ios.auth\\8.10.0\\xamarin.firebase.ios.auth.8.10.0.nupkg.sha512",
+    "C:\\Users\\tomig\\.nuget\\packages\\xamarin.firebase.ios.cloudfirestore\\8.10.0\\xamarin.firebase.ios.cloudfirestore.8.10.0.nupkg.sha512",
     "C:\\Users\\tomig\\.nuget\\packages\\xamarin.firebase.ios.core\\8.10.0\\xamarin.firebase.ios.core.8.10.0.nupkg.sha512",
     "C:\\Users\\tomig\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],

@@ -12,5 +12,7 @@ namespace TaskMenagerFinal.Model
 
         [MaxLength(250)]
         public string Experience { get; set; }
+
+        public string UserId { get; set; }
     }
 }
