@@ -4,6 +4,96 @@ taskmenagerfinal.droid.MainActivity;crc648a8002a17f07aecc.MainActivity
 TaskMenagerFinal.Droid.Dependencies.Firestore, TaskMenagerFinal.Android;crc64da463497fc29a48d.Firestore
 TaskMenagerFinal.Droid.Dependencies.Firestore;crc64da463497fc29a48d.Firestore
 taskmenagerfinal.droid.dependencies.Firestore;crc64da463497fc29a48d.Firestore
+Javax.Annotation.ICheckForNull, Jsr305Binding;javax.annotation.CheckForNull
+Javax.Annotation.ICheckForNull;javax.annotation.CheckForNull
+javax.annotation.CheckForNull;javax.annotation.CheckForNull
+Javax.Annotation.ICheckForSigned, Jsr305Binding;javax.annotation.CheckForSigned
+Javax.Annotation.ICheckForSigned;javax.annotation.CheckForSigned
+javax.annotation.CheckForSigned;javax.annotation.CheckForSigned
+Javax.Annotation.ICheckReturnValue, Jsr305Binding;javax.annotation.CheckReturnValue
+Javax.Annotation.ICheckReturnValue;javax.annotation.CheckReturnValue
+javax.annotation.CheckReturnValue;javax.annotation.CheckReturnValue
+Javax.Annotation.IDetainted, Jsr305Binding;javax.annotation.Detainted
+Javax.Annotation.IDetainted;javax.annotation.Detainted
+javax.annotation.Detainted;javax.annotation.Detainted
+Javax.Annotation.IMatchesPattern, Jsr305Binding;javax.annotation.MatchesPattern
+Javax.Annotation.IMatchesPattern;javax.annotation.MatchesPattern
+javax.annotation.MatchesPattern;javax.annotation.MatchesPattern
+Javax.Annotation.INonnegative, Jsr305Binding;javax.annotation.Nonnegative
+Javax.Annotation.INonnegative;javax.annotation.Nonnegative
+javax.annotation.Nonnegative;javax.annotation.Nonnegative
+Javax.Annotation.INonnull, Jsr305Binding;javax.annotation.Nonnull
+Javax.Annotation.INonnull;javax.annotation.Nonnull
+javax.annotation.Nonnull;javax.annotation.Nonnull
+Javax.Annotation.INullable, Jsr305Binding;javax.annotation.Nullable
+Javax.Annotation.INullable;javax.annotation.Nullable
+javax.annotation.Nullable;javax.annotation.Nullable
+Javax.Annotation.IOverridingMethodsMustInvokeSuper, Jsr305Binding;javax.annotation.OverridingMethodsMustInvokeSuper
+Javax.Annotation.IOverridingMethodsMustInvokeSuper;javax.annotation.OverridingMethodsMustInvokeSuper
+javax.annotation.OverridingMethodsMustInvokeSuper;javax.annotation.OverridingMethodsMustInvokeSuper
+Javax.Annotation.IParametersAreNonnullByDefault, Jsr305Binding;javax.annotation.ParametersAreNonnullByDefault
+Javax.Annotation.IParametersAreNonnullByDefault;javax.annotation.ParametersAreNonnullByDefault
+javax.annotation.ParametersAreNonnullByDefault;javax.annotation.ParametersAreNonnullByDefault
+Javax.Annotation.IParametersAreNullableByDefault, Jsr305Binding;javax.annotation.ParametersAreNullableByDefault
+Javax.Annotation.IParametersAreNullableByDefault;javax.annotation.ParametersAreNullableByDefault
+javax.annotation.ParametersAreNullableByDefault;javax.annotation.ParametersAreNullableByDefault
+Javax.Annotation.IPropertyKey, Jsr305Binding;javax.annotation.PropertyKey
+Javax.Annotation.IPropertyKey;javax.annotation.PropertyKey
+javax.annotation.PropertyKey;javax.annotation.PropertyKey
+Javax.Annotation.IRegEx, Jsr305Binding;javax.annotation.RegEx
+Javax.Annotation.IRegEx;javax.annotation.RegEx
+javax.annotation.RegEx;javax.annotation.RegEx
+Javax.Annotation.ISigned, Jsr305Binding;javax.annotation.Signed
+Javax.Annotation.ISigned;javax.annotation.Signed
+javax.annotation.Signed;javax.annotation.Signed
+Javax.Annotation.ISyntax, Jsr305Binding;javax.annotation.Syntax
+Javax.Annotation.ISyntax;javax.annotation.Syntax
+javax.annotation.Syntax;javax.annotation.Syntax
+Javax.Annotation.ITainted, Jsr305Binding;javax.annotation.Tainted
+Javax.Annotation.ITainted;javax.annotation.Tainted
+javax.annotation.Tainted;javax.annotation.Tainted
+Javax.Annotation.IUntainted, Jsr305Binding;javax.annotation.Untainted
+Javax.Annotation.IUntainted;javax.annotation.Untainted
+javax.annotation.Untainted;javax.annotation.Untainted
+Javax.Annotation.IWillClose, Jsr305Binding;javax.annotation.WillClose
+Javax.Annotation.IWillClose;javax.annotation.WillClose
+javax.annotation.WillClose;javax.annotation.WillClose
+Javax.Annotation.IWillCloseWhenClosed, Jsr305Binding;javax.annotation.WillCloseWhenClosed
+Javax.Annotation.IWillCloseWhenClosed;javax.annotation.WillCloseWhenClosed
+javax.annotation.WillCloseWhenClosed;javax.annotation.WillCloseWhenClosed
+Javax.Annotation.IWillNotClose, Jsr305Binding;javax.annotation.WillNotClose
+Javax.Annotation.IWillNotClose;javax.annotation.WillNotClose
+javax.annotation.WillNotClose;javax.annotation.WillNotClose
+Javax.Annotation.Meta.IExclusive, Jsr305Binding;javax.annotation.meta.Exclusive
+Javax.Annotation.Meta.IExclusive;javax.annotation.meta.Exclusive
+javax.annotation.meta.Exclusive;javax.annotation.meta.Exclusive
+Javax.Annotation.Meta.IExhaustive, Jsr305Binding;javax.annotation.meta.Exhaustive
+Javax.Annotation.Meta.IExhaustive;javax.annotation.meta.Exhaustive
+javax.annotation.meta.Exhaustive;javax.annotation.meta.Exhaustive
+Javax.Annotation.Meta.ITypeQualifier, Jsr305Binding;javax.annotation.meta.TypeQualifier
+Javax.Annotation.Meta.ITypeQualifier;javax.annotation.meta.TypeQualifier
+javax.annotation.meta.TypeQualifier;javax.annotation.meta.TypeQualifier
+Javax.Annotation.Meta.ITypeQualifierDefault, Jsr305Binding;javax.annotation.meta.TypeQualifierDefault
+Javax.Annotation.Meta.ITypeQualifierDefault;javax.annotation.meta.TypeQualifierDefault
+javax.annotation.meta.TypeQualifierDefault;javax.annotation.meta.TypeQualifierDefault
+Javax.Annotation.Meta.ITypeQualifierNickname, Jsr305Binding;javax.annotation.meta.TypeQualifierNickname
+Javax.Annotation.Meta.ITypeQualifierNickname;javax.annotation.meta.TypeQualifierNickname
+javax.annotation.meta.TypeQualifierNickname;javax.annotation.meta.TypeQualifierNickname
+Javax.Annotation.Meta.ITypeQualifierValidator, Jsr305Binding;javax.annotation.meta.TypeQualifierValidator
+Javax.Annotation.Meta.ITypeQualifierValidator;javax.annotation.meta.TypeQualifierValidator
+javax.annotation.meta.TypeQualifierValidator;javax.annotation.meta.TypeQualifierValidator
+Javax.Annotation.Concurrent.IGuardedBy, Jsr305Binding;javax.annotation.concurrent.GuardedBy
+Javax.Annotation.Concurrent.IGuardedBy;javax.annotation.concurrent.GuardedBy
+javax.annotation.concurrent.GuardedBy;javax.annotation.concurrent.GuardedBy
+Javax.Annotation.Concurrent.IImmutable, Jsr305Binding;javax.annotation.concurrent.Immutable
+Javax.Annotation.Concurrent.IImmutable;javax.annotation.concurrent.Immutable
+javax.annotation.concurrent.Immutable;javax.annotation.concurrent.Immutable
+Javax.Annotation.Concurrent.INotThreadSafe, Jsr305Binding;javax.annotation.concurrent.NotThreadSafe
+Javax.Annotation.Concurrent.INotThreadSafe;javax.annotation.concurrent.NotThreadSafe
+javax.annotation.concurrent.NotThreadSafe;javax.annotation.concurrent.NotThreadSafe
+Javax.Annotation.Concurrent.IThreadSafe, Jsr305Binding;javax.annotation.concurrent.ThreadSafe
+Javax.Annotation.Concurrent.IThreadSafe;javax.annotation.concurrent.ThreadSafe
+javax.annotation.concurrent.ThreadSafe;javax.annotation.concurrent.ThreadSafe
 Square.OkHttp.Call+ActionCallback, Square.OkHttp;com.squareup.okhttp.Call_ActionCallback
 Square.OkHttp.Call.ActionCallback;com.squareup.okhttp.Call_ActionCallback
 com.squareup.okhttp.Call_ActionCallback;com.squareup.okhttp.Call_ActionCallback
@@ -1291,6 +1381,9 @@ androidx.viewpager2.widget.ViewPager2$ScrollState;androidx.viewpager2.widget.Vie
 AndroidX.ViewPager2.Adapter.IStatefulAdapter, Xamarin.AndroidX.ViewPager2;androidx.viewpager2.adapter.StatefulAdapter
 AndroidX.ViewPager2.Adapter.IStatefulAdapter;androidx.viewpager2.adapter.StatefulAdapter
 androidx.viewpager2.adapter.StatefulAdapter;androidx.viewpager2.adapter.StatefulAdapter
+Xamarin.CodeHaus.Mojo.AnimalSnifferAnnotations.IIgnoreJRERequirement, Xamarin.CodeHaus.Mojo.AnimalSnifferAnnotations;org.codehaus.mojo.animal_sniffer.IgnoreJRERequirement
+Xamarin.CodeHaus.Mojo.AnimalSnifferAnnotations.IIgnoreJRERequirement;org.codehaus.mojo.animal_sniffer.IgnoreJRERequirement
+org.codehaus.mojo.animal_sniffer.IgnoreJRERequirement;org.codehaus.mojo.animal_sniffer.IgnoreJRERequirement
 Xamarin.Essentials.AccelerometerListener, Xamarin.Essentials;crc64a0e0a82d0db9a07d.AccelerometerListener
 Xamarin.Essentials.AccelerometerListener;crc64a0e0a82d0db9a07d.AccelerometerListener
 xamarin.essentials.AccelerometerListener;crc64a0e0a82d0db9a07d.AccelerometerListener
@@ -3118,6 +3211,72 @@ mono.com.google.android.material.appbar.AppBarLayout_OnOffsetChangedListenerImpl
 Google.Android.Material.Animation.ITransformationCallback, Xamarin.Google.Android.Material;com.google.android.material.animation.TransformationCallback
 Google.Android.Material.Animation.ITransformationCallback;com.google.android.material.animation.TransformationCallback
 com.google.android.material.animation.TransformationCallback;com.google.android.material.animation.TransformationCallback
+Xamarin.Google.ErrorProne.Annotations.ICanIgnoreReturnValue, Xamarin.Google.ErrorProne.Annotations;com.google.errorprone.annotations.CanIgnoreReturnValue
+Xamarin.Google.ErrorProne.Annotations.ICanIgnoreReturnValue;com.google.errorprone.annotations.CanIgnoreReturnValue
+com.google.errorprone.annotations.CanIgnoreReturnValue;com.google.errorprone.annotations.CanIgnoreReturnValue
+Xamarin.Google.ErrorProne.Annotations.ICheckReturnValue, Xamarin.Google.ErrorProne.Annotations;com.google.errorprone.annotations.CheckReturnValue
+Xamarin.Google.ErrorProne.Annotations.ICheckReturnValue;com.google.errorprone.annotations.CheckReturnValue
+com.google.errorprone.annotations.CheckReturnValue;com.google.errorprone.annotations.CheckReturnValue
+Xamarin.Google.ErrorProne.Annotations.ICompatibleWith, Xamarin.Google.ErrorProne.Annotations;com.google.errorprone.annotations.CompatibleWith
+Xamarin.Google.ErrorProne.Annotations.ICompatibleWith;com.google.errorprone.annotations.CompatibleWith
+com.google.errorprone.annotations.CompatibleWith;com.google.errorprone.annotations.CompatibleWith
+Xamarin.Google.ErrorProne.Annotations.ICompileTimeConstant, Xamarin.Google.ErrorProne.Annotations;com.google.errorprone.annotations.CompileTimeConstant
+Xamarin.Google.ErrorProne.Annotations.ICompileTimeConstant;com.google.errorprone.annotations.CompileTimeConstant
+com.google.errorprone.annotations.CompileTimeConstant;com.google.errorprone.annotations.CompileTimeConstant
+Xamarin.Google.ErrorProne.Annotations.IDoNotCall, Xamarin.Google.ErrorProne.Annotations;com.google.errorprone.annotations.DoNotCall
+Xamarin.Google.ErrorProne.Annotations.IDoNotCall;com.google.errorprone.annotations.DoNotCall
+com.google.errorprone.annotations.DoNotCall;com.google.errorprone.annotations.DoNotCall
+Xamarin.Google.ErrorProne.Annotations.IDoNotMock, Xamarin.Google.ErrorProne.Annotations;com.google.errorprone.annotations.DoNotMock
+Xamarin.Google.ErrorProne.Annotations.IDoNotMock;com.google.errorprone.annotations.DoNotMock
+com.google.errorprone.annotations.DoNotMock;com.google.errorprone.annotations.DoNotMock
+Xamarin.Google.ErrorProne.Annotations.IFormatMethod, Xamarin.Google.ErrorProne.Annotations;com.google.errorprone.annotations.FormatMethod
+Xamarin.Google.ErrorProne.Annotations.IFormatMethod;com.google.errorprone.annotations.FormatMethod
+com.google.errorprone.annotations.FormatMethod;com.google.errorprone.annotations.FormatMethod
+Xamarin.Google.ErrorProne.Annotations.IFormatString, Xamarin.Google.ErrorProne.Annotations;com.google.errorprone.annotations.FormatString
+Xamarin.Google.ErrorProne.Annotations.IFormatString;com.google.errorprone.annotations.FormatString
+com.google.errorprone.annotations.FormatString;com.google.errorprone.annotations.FormatString
+Xamarin.Google.ErrorProne.Annotations.IForOverride, Xamarin.Google.ErrorProne.Annotations;com.google.errorprone.annotations.ForOverride
+Xamarin.Google.ErrorProne.Annotations.IForOverride;com.google.errorprone.annotations.ForOverride
+com.google.errorprone.annotations.ForOverride;com.google.errorprone.annotations.ForOverride
+Xamarin.Google.ErrorProne.Annotations.IImmutable, Xamarin.Google.ErrorProne.Annotations;com.google.errorprone.annotations.Immutable
+Xamarin.Google.ErrorProne.Annotations.IImmutable;com.google.errorprone.annotations.Immutable
+com.google.errorprone.annotations.Immutable;com.google.errorprone.annotations.Immutable
+Xamarin.Google.ErrorProne.Annotations.IIncompatibleModifiers, Xamarin.Google.ErrorProne.Annotations;com.google.errorprone.annotations.IncompatibleModifiers
+Xamarin.Google.ErrorProne.Annotations.IIncompatibleModifiers;com.google.errorprone.annotations.IncompatibleModifiers
+com.google.errorprone.annotations.IncompatibleModifiers;com.google.errorprone.annotations.IncompatibleModifiers
+Xamarin.Google.ErrorProne.Annotations.IMustBeClosed, Xamarin.Google.ErrorProne.Annotations;com.google.errorprone.annotations.MustBeClosed
+Xamarin.Google.ErrorProne.Annotations.IMustBeClosed;com.google.errorprone.annotations.MustBeClosed
+com.google.errorprone.annotations.MustBeClosed;com.google.errorprone.annotations.MustBeClosed
+Xamarin.Google.ErrorProne.Annotations.INoAllocation, Xamarin.Google.ErrorProne.Annotations;com.google.errorprone.annotations.NoAllocation
+Xamarin.Google.ErrorProne.Annotations.INoAllocation;com.google.errorprone.annotations.NoAllocation
+com.google.errorprone.annotations.NoAllocation;com.google.errorprone.annotations.NoAllocation
+Xamarin.Google.ErrorProne.Annotations.IOverridingMethodsMustInvokeSuper, Xamarin.Google.ErrorProne.Annotations;com.google.errorprone.annotations.OverridingMethodsMustInvokeSuper
+Xamarin.Google.ErrorProne.Annotations.IOverridingMethodsMustInvokeSuper;com.google.errorprone.annotations.OverridingMethodsMustInvokeSuper
+com.google.errorprone.annotations.OverridingMethodsMustInvokeSuper;com.google.errorprone.annotations.OverridingMethodsMustInvokeSuper
+Xamarin.Google.ErrorProne.Annotations.IRequiredModifiers, Xamarin.Google.ErrorProne.Annotations;com.google.errorprone.annotations.RequiredModifiers
+Xamarin.Google.ErrorProne.Annotations.IRequiredModifiers;com.google.errorprone.annotations.RequiredModifiers
+com.google.errorprone.annotations.RequiredModifiers;com.google.errorprone.annotations.RequiredModifiers
+Xamarin.Google.ErrorProne.Annotations.IRestrictedApi, Xamarin.Google.ErrorProne.Annotations;com.google.errorprone.annotations.RestrictedApi
+Xamarin.Google.ErrorProne.Annotations.IRestrictedApi;com.google.errorprone.annotations.RestrictedApi
+com.google.errorprone.annotations.RestrictedApi;com.google.errorprone.annotations.RestrictedApi
+Xamarin.Google.ErrorProne.Annotations.ISuppressPackageLocation, Xamarin.Google.ErrorProne.Annotations;com.google.errorprone.annotations.SuppressPackageLocation
+Xamarin.Google.ErrorProne.Annotations.ISuppressPackageLocation;com.google.errorprone.annotations.SuppressPackageLocation
+com.google.errorprone.annotations.SuppressPackageLocation;com.google.errorprone.annotations.SuppressPackageLocation
+Xamarin.Google.ErrorProne.Annotations.IVar, Xamarin.Google.ErrorProne.Annotations;com.google.errorprone.annotations.Var
+Xamarin.Google.ErrorProne.Annotations.IVar;com.google.errorprone.annotations.Var
+com.google.errorprone.annotations.Var;com.google.errorprone.annotations.Var
+Xamarin.Google.ErrorProne.Annotations.Concurrent.IGuardedBy, Xamarin.Google.ErrorProne.Annotations;com.google.errorprone.annotations.concurrent.GuardedBy
+Xamarin.Google.ErrorProne.Annotations.Concurrent.IGuardedBy;com.google.errorprone.annotations.concurrent.GuardedBy
+com.google.errorprone.annotations.concurrent.GuardedBy;com.google.errorprone.annotations.concurrent.GuardedBy
+Xamarin.Google.ErrorProne.Annotations.Concurrent.ILazyInit, Xamarin.Google.ErrorProne.Annotations;com.google.errorprone.annotations.concurrent.LazyInit
+Xamarin.Google.ErrorProne.Annotations.Concurrent.ILazyInit;com.google.errorprone.annotations.concurrent.LazyInit
+com.google.errorprone.annotations.concurrent.LazyInit;com.google.errorprone.annotations.concurrent.LazyInit
+Xamarin.Google.ErrorProne.Annotations.Concurrent.ILockMethod, Xamarin.Google.ErrorProne.Annotations;com.google.errorprone.annotations.concurrent.LockMethod
+Xamarin.Google.ErrorProne.Annotations.Concurrent.ILockMethod;com.google.errorprone.annotations.concurrent.LockMethod
+com.google.errorprone.annotations.concurrent.LockMethod;com.google.errorprone.annotations.concurrent.LockMethod
+Xamarin.Google.ErrorProne.Annotations.Concurrent.IUnlockMethod, Xamarin.Google.ErrorProne.Annotations;com.google.errorprone.annotations.concurrent.UnlockMethod
+Xamarin.Google.ErrorProne.Annotations.Concurrent.IUnlockMethod;com.google.errorprone.annotations.concurrent.UnlockMethod
+com.google.errorprone.annotations.concurrent.UnlockMethod;com.google.errorprone.annotations.concurrent.UnlockMethod
 Google.Common.Util.Concurrent.IListenableFuture, Xamarin.Google.Guava.ListenableFuture;com.google.common.util.concurrent.ListenableFuture
 Google.Common.Util.Concurrent.IListenableFuture;com.google.common.util.concurrent.ListenableFuture
 com.google.common.util.concurrent.ListenableFuture;com.google.common.util.concurrent.ListenableFuture

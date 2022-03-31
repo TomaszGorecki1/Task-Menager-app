@@ -1608,6 +1608,47 @@
           "buildTransitive/Xamarin.Build.Download.targets": {}
         }
       },
+      "Xamarin.CheckerFramework.CheckerCompatQual/2.5.5": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Java.Interop",
+          "Mono.Android",
+          "System",
+          "System.Core",
+          "System.Numerics",
+          "System.Numerics.Vectors",
+          "System.Xml",
+          "mscorlib"
+        ],
+        "compile": {
+          "lib/monoandroid90/Xamarin.CheckerFramework.CheckerCompatQual.dll": {}
+        },
+        "runtime": {
+          "lib/monoandroid90/Xamarin.CheckerFramework.CheckerCompatQual.dll": {}
+        },
+        "build": {
+          "buildTransitive/monoandroid90/Xamarin.CheckerFramework.CheckerCompatQual.targets": {}
+        }
+      },
+      "Xamarin.CodeHaus.Mojo.AnimalSnifferAnnotations/1.18.0.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Java.Interop",
+          "Mono.Android",
+          "System",
+          "System.Core",
+          "System.Numerics",
+          "System.Numerics.Vectors",
+          "System.Xml",
+          "mscorlib"
+        ],
+        "compile": {
+          "lib/monoandroid90/Xamarin.CodeHaus.Mojo.AnimalSnifferAnnotations.dll": {}
+        },
+        "runtime": {
+          "lib/monoandroid90/Xamarin.CodeHaus.Mojo.AnimalSnifferAnnotations.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.7.0": {
         "type": "package",
         "dependencies": {
@@ -1940,11 +1981,54 @@
           "buildTransitive/monoandroid90/Xamarin.Google.Android.Material.targets": {}
         }
       },
-      "Xamarin.Google.Guava/28.2.0.1": {
+      "Xamarin.Google.Code.FindBugs.JSR305/3.0.2.2": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Java.Interop",
+          "Mono.Android",
+          "System",
+          "System.Core",
+          "System.Numerics",
+          "System.Numerics.Vectors",
+          "System.Xml",
+          "mscorlib"
+        ],
+        "compile": {
+          "lib/monoandroid90/Jsr305Binding.dll": {}
+        },
+        "runtime": {
+          "lib/monoandroid90/Jsr305Binding.dll": {}
+        }
+      },
+      "Xamarin.Google.ErrorProne.Annotations/2.4.0.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Java.Interop",
+          "Mono.Android",
+          "System",
+          "System.Core",
+          "System.Numerics",
+          "System.Numerics.Vectors",
+          "System.Xml",
+          "mscorlib"
+        ],
+        "compile": {
+          "lib/monoandroid90/Xamarin.Google.ErrorProne.Annotations.dll": {}
+        },
+        "runtime": {
+          "lib/monoandroid90/Xamarin.Google.ErrorProne.Annotations.dll": {}
+        }
+      },
+      "Xamarin.Google.Guava/31.1.0": {
         "type": "package",
         "dependencies": {
-          "Xamarin.Google.Guava.FailureAccess": "1.0.1.3",
-          "Xamarin.Google.Guava.ListenableFuture": "1.0.0.3"
+          "Xamarin.CheckerFramework.CheckerCompatQual": "2.5.5",
+          "Xamarin.CodeHaus.Mojo.AnimalSnifferAnnotations": "1.18.0.1",
+          "Xamarin.Google.Code.FindBugs.JSR305": "3.0.2.2",
+          "Xamarin.Google.ErrorProne.Annotations": "2.4.0.1",
+          "Xamarin.Google.Guava.FailureAccess": "1.0.1.6",
+          "Xamarin.Google.Guava.ListenableFuture": "1.0.0.6",
+          "Xamarin.Google.J2Objc.Annotations": "1.3.0"
         },
         "frameworkAssemblies": [
           "Java.Interop",
@@ -1966,7 +2050,7 @@
           "buildTransitive/monoandroid90/Xamarin.Google.Guava.targets": {}
         }
       },
-      "Xamarin.Google.Guava.FailureAccess/1.0.1.3": {
+      "Xamarin.Google.Guava.FailureAccess/1.0.1.6": {
         "type": "package",
         "frameworkAssemblies": [
           "Java.Interop",
@@ -1988,7 +2072,7 @@
           "buildTransitive/monoandroid90/Xamarin.Google.Guava.FailureAccess.targets": {}
         }
       },
-      "Xamarin.Google.Guava.ListenableFuture/1.0.0.3": {
+      "Xamarin.Google.Guava.ListenableFuture/1.0.0.6": {
         "type": "package",
         "frameworkAssemblies": [
           "Java.Interop",
@@ -2008,6 +2092,28 @@
         },
         "build": {
           "buildTransitive/monoandroid90/Xamarin.Google.Guava.ListenableFuture.targets": {}
+        }
+      },
+      "Xamarin.Google.J2Objc.Annotations/1.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Java.Interop",
+          "Mono.Android",
+          "System",
+          "System.Core",
+          "System.Numerics",
+          "System.Numerics.Vectors",
+          "System.Xml",
+          "mscorlib"
+        ],
+        "compile": {
+          "lib/monoandroid90/Xamarin.Google.J2Objc.Annotations.dll": {}
+        },
+        "runtime": {
+          "lib/monoandroid90/Xamarin.Google.J2Objc.Annotations.dll": {}
+        },
+        "build": {
+          "buildTransitive/monoandroid90/Xamarin.Google.J2Objc.Annotations.targets": {}
         }
       },
       "Xamarin.GooglePlayServices.Auth.Api.Phone/117.5.1.3": {
@@ -3941,6 +4047,45 @@
         "xamarin.build.download.nuspec"
       ]
     },
+    "Xamarin.CheckerFramework.CheckerCompatQual/2.5.5": {
+      "sha512": "rfIV1fwRYv5dxQ4BHJDnctgf2EE9tdgwbLm3nbc3hC92Ynxozz9CKT5V1Z3YCbtolWPdPWLfNK3nSgxuFfaFiQ==",
+      "type": "package",
+      "path": "xamarin.checkerframework.checkercompatqual/2.5.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "THIRD-PARTY-NOTICES.txt",
+        "build/monoandroid90/Xamarin.CheckerFramework.CheckerCompatQual.targets",
+        "build/net6.0-android31.0/Xamarin.CheckerFramework.CheckerCompatQual.targets",
+        "buildTransitive/monoandroid90/Xamarin.CheckerFramework.CheckerCompatQual.targets",
+        "buildTransitive/net6.0-android31.0/Xamarin.CheckerFramework.CheckerCompatQual.targets",
+        "jar/checker-compat-qual-annotations.jar",
+        "lib/monoandroid90/Xamarin.CheckerFramework.CheckerCompatQual.dll",
+        "lib/monoandroid90/Xamarin.CheckerFramework.CheckerCompatQual.xml",
+        "lib/net6.0-android31.0/Xamarin.CheckerFramework.CheckerCompatQual.dll",
+        "lib/net6.0-android31.0/Xamarin.CheckerFramework.CheckerCompatQual.xml",
+        "xamarin.checkerframework.checkercompatqual.2.5.5.nupkg.sha512",
+        "xamarin.checkerframework.checkercompatqual.nuspec"
+      ]
+    },
+    "Xamarin.CodeHaus.Mojo.AnimalSnifferAnnotations/1.18.0.1": {
+      "sha512": "9m8dcoHqeFNxqFnNjcbb/5bE/ETcuvMBNaYLZ5cH1otjJLr4nmwuDgCaWL8ZC4imdEMy8cZADjKmIZ1JlgEfoA==",
+      "type": "package",
+      "path": "xamarin.codehaus.mojo.animalsnifferannotations/1.18.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "THIRD-PARTY-NOTICES.txt",
+        "lib/monoandroid90/Xamarin.CodeHaus.Mojo.AnimalSnifferAnnotations.dll",
+        "lib/monoandroid90/Xamarin.CodeHaus.Mojo.AnimalSnifferAnnotations.xml",
+        "lib/net6.0-android31.0/Xamarin.CodeHaus.Mojo.AnimalSnifferAnnotations.aar",
+        "lib/net6.0-android31.0/Xamarin.CodeHaus.Mojo.AnimalSnifferAnnotations.dll",
+        "lib/net6.0-android31.0/Xamarin.CodeHaus.Mojo.AnimalSnifferAnnotations.xml",
+        "xamarin.codehaus.mojo.animalsnifferannotations.1.18.0.1.nupkg.sha512",
+        "xamarin.codehaus.mojo.animalsnifferannotations.nuspec"
+      ]
+    },
     "Xamarin.Essentials/1.7.0": {
       "sha512": "xfUJNxtfMC05VBej7fVUg6Zd9VwM2kqW9LH0tcrSA6IsBTl0EsIGkYUOz1BoKT2rseWW8o3kTi5WH/yZV4GgJw==",
       "type": "package",
@@ -4384,67 +4529,124 @@
         "xamarin.google.android.material.nuspec"
       ]
     },
-    "Xamarin.Google.Guava/28.2.0.1": {
-      "sha512": "8G9WAuD34ELhrR9dU6k2yHZAaR2vfiUrgUidBiXtauHAx5TyLdq5dQJXpurN55Chc2tZpN/10TPvJQVzk4/ZuQ==",
+    "Xamarin.Google.Code.FindBugs.JSR305/3.0.2.2": {
+      "sha512": "WnH67vR057nUoxugmQqJcN7OAdym2O2Hscz32sQLerxbh8y29zx7Z27grIGABPm/c7/mRq2ZuNiz+bNec/K09Q==",
       "type": "package",
-      "path": "xamarin.google.guava/28.2.0.1",
+      "path": "xamarin.google.code.findbugs.jsr305/3.0.2.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "THIRD-PARTY-NOTICES.txt",
+        "lib/monoandroid90/Jsr305Binding.dll",
+        "lib/monoandroid90/Jsr305Binding.xml",
+        "lib/net6.0-android31.0/Jsr305Binding.aar",
+        "lib/net6.0-android31.0/Jsr305Binding.dll",
+        "lib/net6.0-android31.0/Jsr305Binding.xml",
+        "xamarin.google.code.findbugs.jsr305.3.0.2.2.nupkg.sha512",
+        "xamarin.google.code.findbugs.jsr305.nuspec"
+      ]
+    },
+    "Xamarin.Google.ErrorProne.Annotations/2.4.0.1": {
+      "sha512": "T6dgnpY7721woU7lU6lg+DwCSJnZRZ2Py/TAGuojIaLXzp/bnDD6q4whZrixmeJaIlkLcUMqUWxZsMcP4M5rCg==",
+      "type": "package",
+      "path": "xamarin.google.errorprone.annotations/2.4.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "THIRD-PARTY-NOTICES.txt",
+        "lib/monoandroid90/Xamarin.Google.ErrorProne.Annotations.dll",
+        "lib/monoandroid90/Xamarin.Google.ErrorProne.Annotations.xml",
+        "lib/net6.0-android31.0/Xamarin.Google.ErrorProne.Annotations.aar",
+        "lib/net6.0-android31.0/Xamarin.Google.ErrorProne.Annotations.dll",
+        "lib/net6.0-android31.0/Xamarin.Google.ErrorProne.Annotations.xml",
+        "xamarin.google.errorprone.annotations.2.4.0.1.nupkg.sha512",
+        "xamarin.google.errorprone.annotations.nuspec"
+      ]
+    },
+    "Xamarin.Google.Guava/31.1.0": {
+      "sha512": "hqJhpc9KOqiRwBb1b4Xk2d5ViE1bX1GPOUmuO1bHe6ZHD/DQgwwdfq4nE+tjH6tgvKCU1y67U/iD87zdspvLZw==",
+      "type": "package",
+      "path": "xamarin.google.guava/31.1.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "THIRD-PARTY-NOTICES.txt",
         "build/monoandroid90/Xamarin.Google.Guava.targets",
-        "build/net6.0-android30.0/Xamarin.Google.Guava.targets",
+        "build/net6.0-android31.0/Xamarin.Google.Guava.targets",
         "buildTransitive/monoandroid90/Xamarin.Google.Guava.targets",
-        "buildTransitive/net6.0-android30.0/Xamarin.Google.Guava.targets",
+        "buildTransitive/net6.0-android31.0/Xamarin.Google.Guava.targets",
         "jar/guava.jar",
         "lib/monoandroid90/Xamarin.Google.Guava.dll",
         "lib/monoandroid90/Xamarin.Google.Guava.xml",
-        "lib/net6.0-android30.0/Xamarin.Google.Guava.dll",
-        "lib/net6.0-android30.0/Xamarin.Google.Guava.xml",
-        "xamarin.google.guava.28.2.0.1.nupkg.sha512",
+        "lib/net6.0-android31.0/Xamarin.Google.Guava.dll",
+        "lib/net6.0-android31.0/Xamarin.Google.Guava.xml",
+        "xamarin.google.guava.31.1.0.nupkg.sha512",
         "xamarin.google.guava.nuspec"
       ]
     },
-    "Xamarin.Google.Guava.FailureAccess/1.0.1.3": {
-      "sha512": "EzYSFRU4Uu1nt4hbOZbz6It+53o6UzKXNHxbtTyx9ec3ujsqr/wAhTGGkRBMuRka0WYDP9cVp4GpXRiMsLhzPA==",
+    "Xamarin.Google.Guava.FailureAccess/1.0.1.6": {
+      "sha512": "tKo+XnzMilJ1kJ57GYfhbyl6DN4F1YcYKflPxMYo6yzKY6h744ANr0OQI9DXc0bMF6Qy6xIoliNnAZ0+2TcTmQ==",
       "type": "package",
-      "path": "xamarin.google.guava.failureaccess/1.0.1.3",
+      "path": "xamarin.google.guava.failureaccess/1.0.1.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "THIRD-PARTY-NOTICES.txt",
         "build/monoandroid90/Xamarin.Google.Guava.FailureAccess.targets",
-        "build/net6.0-android30.0/Xamarin.Google.Guava.FailureAccess.targets",
+        "build/net6.0-android31.0/Xamarin.Google.Guava.FailureAccess.targets",
         "buildTransitive/monoandroid90/Xamarin.Google.Guava.FailureAccess.targets",
-        "buildTransitive/net6.0-android30.0/Xamarin.Google.Guava.FailureAccess.targets",
+        "buildTransitive/net6.0-android31.0/Xamarin.Google.Guava.FailureAccess.targets",
         "jar/guava-failureaccess.jar",
         "lib/monoandroid90/Xamarin.Google.Guava.FailureAccess.dll",
         "lib/monoandroid90/Xamarin.Google.Guava.FailureAccess.xml",
-        "lib/net6.0-android30.0/Xamarin.Google.Guava.FailureAccess.dll",
-        "lib/net6.0-android30.0/Xamarin.Google.Guava.FailureAccess.xml",
-        "xamarin.google.guava.failureaccess.1.0.1.3.nupkg.sha512",
+        "lib/net6.0-android31.0/Xamarin.Google.Guava.FailureAccess.dll",
+        "lib/net6.0-android31.0/Xamarin.Google.Guava.FailureAccess.xml",
+        "xamarin.google.guava.failureaccess.1.0.1.6.nupkg.sha512",
         "xamarin.google.guava.failureaccess.nuspec"
       ]
     },
-    "Xamarin.Google.Guava.ListenableFuture/1.0.0.3": {
-      "sha512": "o/5jRsdvUu9tjUYipngBuMD/85aUty8CLMnEOtSCQX2rS5qsh9axlT/eSp8ChfjHgm1k666BGm/Wc3tPG3B8Qw==",
+    "Xamarin.Google.Guava.ListenableFuture/1.0.0.6": {
+      "sha512": "dNMKoG6ltqs6ywKt+JMTPeNJRPBOMF42S3gao+XwuuvQ+OysbvTzTEr0bllhU8LOTNSFJUIqcXplH5+p9zLffQ==",
       "type": "package",
-      "path": "xamarin.google.guava.listenablefuture/1.0.0.3",
+      "path": "xamarin.google.guava.listenablefuture/1.0.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "THIRD-PARTY-NOTICES.txt",
         "build/monoandroid90/Xamarin.Google.Guava.ListenableFuture.targets",
-        "build/net6.0-android30.0/Xamarin.Google.Guava.ListenableFuture.targets",
+        "build/net6.0-android31.0/Xamarin.Google.Guava.ListenableFuture.targets",
         "buildTransitive/monoandroid90/Xamarin.Google.Guava.ListenableFuture.targets",
-        "buildTransitive/net6.0-android30.0/Xamarin.Google.Guava.ListenableFuture.targets",
+        "buildTransitive/net6.0-android31.0/Xamarin.Google.Guava.ListenableFuture.targets",
         "jar/guava-listenablefuture.jar",
         "lib/monoandroid90/Xamarin.Google.Guava.ListenableFuture.dll",
         "lib/monoandroid90/Xamarin.Google.Guava.ListenableFuture.xml",
-        "lib/net6.0-android30.0/Xamarin.Google.Guava.ListenableFuture.dll",
-        "lib/net6.0-android30.0/Xamarin.Google.Guava.ListenableFuture.xml",
-        "xamarin.google.guava.listenablefuture.1.0.0.3.nupkg.sha512",
+        "lib/net6.0-android31.0/Xamarin.Google.Guava.ListenableFuture.dll",
+        "lib/net6.0-android31.0/Xamarin.Google.Guava.ListenableFuture.xml",
+        "xamarin.google.guava.listenablefuture.1.0.0.6.nupkg.sha512",
         "xamarin.google.guava.listenablefuture.nuspec"
+      ]
+    },
+    "Xamarin.Google.J2Objc.Annotations/1.3.0": {
+      "sha512": "eMJiB2uzrd2LjKIznFBHbbotDH2CRNj5gJ8hK1bywxxS3+aOZv9vwPJ2gsz2lw7wsB3QIn7hr8f8QQ11VGkAyg==",
+      "type": "package",
+      "path": "xamarin.google.j2objc.annotations/1.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "THIRD-PARTY-NOTICES.txt",
+        "build/monoandroid90/Xamarin.Google.J2Objc.Annotations.targets",
+        "build/net6.0-android31.0/Xamarin.Google.J2Objc.Annotations.targets",
+        "buildTransitive/monoandroid90/Xamarin.Google.J2Objc.Annotations.targets",
+        "buildTransitive/net6.0-android31.0/Xamarin.Google.J2Objc.Annotations.targets",
+        "jar/j2objc-annotations.jar",
+        "lib/monoandroid90/Xamarin.Google.J2Objc.Annotations.dll",
+        "lib/monoandroid90/Xamarin.Google.J2Objc.Annotations.xml",
+        "lib/net6.0-android31.0/Xamarin.Google.J2Objc.Annotations.dll",
+        "lib/net6.0-android31.0/Xamarin.Google.J2Objc.Annotations.xml",
+        "xamarin.google.j2objc.annotations.1.3.0.nupkg.sha512",
+        "xamarin.google.j2objc.annotations.nuspec"
       ]
     },
     "Xamarin.GooglePlayServices.Auth.Api.Phone/117.5.1.3": {
@@ -4698,6 +4900,7 @@
       "Xamarin.Firebase.Auth >= 121.0.1.4",
       "Xamarin.Firebase.Firestore >= 123.0.3.3",
       "Xamarin.Forms >= 5.0.0.2196",
+      "Xamarin.Google.Guava >= 31.1.0",
       "Xamarin.GooglePlayServices.Basement >= 117.6.0.4",
       "sqlite-net-pcl >= 1.8.116"
     ]
@@ -4763,6 +4966,10 @@
           "Xamarin.Forms": {
             "target": "Package",
             "version": "[5.0.0.2196, )"
+          },
+          "Xamarin.Google.Guava": {
+            "target": "Package",
+            "version": "[31.1.0, )"
           },
           "Xamarin.GooglePlayServices.Basement": {
             "target": "Package",

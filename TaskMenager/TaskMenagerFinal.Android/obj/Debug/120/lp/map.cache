@@ -1,4 +1,5 @@
 FormsViewGroup.dll
+Jsr305Binding.dll
 SQLitePCLRaw.lib.e_sqlite3.android.dll
 Square.OkHttp.dll
 Square.OkIO.dll
@@ -54,6 +55,7 @@ Xamarin.AndroidX.VectorDrawable.dll
 Xamarin.AndroidX.VersionedParcelable.dll
 Xamarin.AndroidX.ViewPager.dll
 Xamarin.AndroidX.ViewPager2.dll
+Xamarin.CodeHaus.Mojo.AnimalSnifferAnnotations.dll
 Xamarin.Essentials.dll
 Xamarin.Firebase.Annotations.dll
 Xamarin.Firebase.Auth.dll
@@ -66,6 +68,7 @@ Xamarin.Firebase.ProtoliteWellKnownTypes.dll
 Xamarin.Forms.Platform.Android.dll
 Xamarin.Forms.Platform.dll
 Xamarin.Google.Android.Material.dll
+Xamarin.Google.ErrorProne.Annotations.dll
 Xamarin.Google.Guava.FailureAccess.dll
 Xamarin.Google.Guava.ListenableFuture.dll
 Xamarin.GooglePlayServices.Auth.Api.Phone.dll

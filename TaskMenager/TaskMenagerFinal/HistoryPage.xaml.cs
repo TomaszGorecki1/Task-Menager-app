@@ -29,6 +29,7 @@ namespace TaskMenagerFinal
                  var posts = conn.Table<Post>().ToList();
                  postListView.ItemsSource = posts;
              }*/
+            postListView.ItemsSource = null;
            var posts = await Firestore.Read();
             postListView.ItemsSource = posts;
         }

@@ -1,18 +1,4 @@
-# Needed for DNS resolution.  Present in OpenJDK, but not Android
--dontwarn javax.naming.**
+-dontwarn com.google.firebase.components.Component$Instantiation
+-dontwarn com.google.firebase.components.Component$ComponentType
 
-# Don't warn about checkerframework
-#
-# Guava uses the checkerframework and the annotations
-# can safely be ignored at runtime.
--dontwarn org.checkerframework.**
-
-# Guava warnings:
--dontwarn java.lang.ClassValue
--dontwarn com.google.j2objc.annotations.Weak
--dontwarn org.codehaus.mojo.animal_sniffer.IgnoreJRERequirement
--dontwarn javax.lang.model.element.Modifier
-
-# Okhttp warnings.
--dontwarn okio.**
--dontwarn com.google.j2objc.annotations.**
+-keep class * implements com.google.firebase.components.ComponentRegistrar

@@ -21,25 +21,45 @@ namespace TaskMenagerFinal
 
         private void ToolbarItem_Clicked(object sender, EventArgs e)
         {
-            Post post = new Post()
+            try
             {
-                Experience = experienceEntry.Text
-            };
+               
 
-            using (SQLiteConnection conn = new SQLiteConnection(App.DatabaseLocation))
-            { 
-                conn.CreateTable<Post>();
-                int rows = conn.Insert(post);
-            
-                if (rows > 0)
+                Post newPost = new Post()
                 {
-                    DisplayAlert("succes", "Experience succesfully inserted", "OK");
-                }   
-                else
+                    Experience = experienceEntry.Text,
+                };
+
+                //using (SQLiteConnection conn = new SQLiteConnection(App.databaseLocation))
+                //{
+                //    conn.CreateTable<Post>();
+                //    int rowsAffected = conn.Insert(newPost);
+
+                //    if (rowsAffected > 0)
+                //    {
+                //        experienceEntry.Text = string.Empty;
+                //        DisplayAlert("Success", "Post saved", "Ok");
+                //    }
+                //    else
+                //        DisplayAlert("Failure", "Post was not saved, please try again", "Ok");
+                //}
+
+                bool result = Firestore.Insert(newPost);
+                if (result)
                 {
-                    DisplayAlert("failure", "Experience failed to be inserted", "not ok");
+                    experienceEntry.Text = string.Empty;
+                    DisplayAlert("Success", "Post saved", "Ok");
                 }
-              // bool result = Firestore.Insert(newPost);
+                else
+                    DisplayAlert("Failure", "Post was not saved, please try again", "Ok");
+            }
+            catch (NullReferenceException nrex)
+            {
+
+            }
+            catch(Exception ex)
+            {
+
             }
         }
     }
