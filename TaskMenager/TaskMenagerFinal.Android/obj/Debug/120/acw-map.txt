@@ -1,6 +1,9 @@
 TaskMenagerFinal.Droid.MainActivity, TaskMenagerFinal.Android;crc648a8002a17f07aecc.MainActivity
 TaskMenagerFinal.Droid.MainActivity;crc648a8002a17f07aecc.MainActivity
 taskmenagerfinal.droid.MainActivity;crc648a8002a17f07aecc.MainActivity
+Square.OkHttp.Call+ActionCallback, Square.OkHttp;com.squareup.okhttp.Call_ActionCallback
+Square.OkHttp.Call.ActionCallback;com.squareup.okhttp.Call_ActionCallback
+com.squareup.okhttp.Call_ActionCallback;com.squareup.okhttp.Call_ActionCallback
 AndroidX.Activity.IOnBackPressedDispatcherOwner, Xamarin.AndroidX.Activity;androidx.activity.OnBackPressedDispatcherOwner
 AndroidX.Activity.IOnBackPressedDispatcherOwner;androidx.activity.OnBackPressedDispatcherOwner
 androidx.activity.OnBackPressedDispatcherOwner;androidx.activity.OnBackPressedDispatcherOwner
@@ -1450,6 +1453,702 @@ com.google.firebase.components.ComponentFactory;com.google.firebase.components.C
 Firebase.Components.IComponentRegistrar, Xamarin.Firebase.Components;com.google.firebase.components.ComponentRegistrar
 Firebase.Components.IComponentRegistrar;com.google.firebase.components.ComponentRegistrar
 com.google.firebase.components.ComponentRegistrar;com.google.firebase.components.ComponentRegistrar
+Firebase.Database.Collection.ILLRBNodeShortCircuitingNodeVisitor, Xamarin.Firebase.Database.Collection;com.google.firebase.database.collection.LLRBNode$ShortCircuitingNodeVisitor
+Firebase.Database.Collection.ILLRBNodeShortCircuitingNodeVisitor;com.google.firebase.database.collection.LLRBNode$ShortCircuitingNodeVisitor
+com.google.firebase.database.collection.LLRBNode$ShortCircuitingNodeVisitor;com.google.firebase.database.collection.LLRBNode$ShortCircuitingNodeVisitor
+Firebase.Database.Collection.ILLRBNode, Xamarin.Firebase.Database.Collection;com.google.firebase.database.collection.LLRBNode
+Firebase.Database.Collection.ILLRBNode;com.google.firebase.database.collection.LLRBNode
+com.google.firebase.database.collection.LLRBNode;com.google.firebase.database.collection.LLRBNode
+Firebase.Database.Collection.ImmutableSortedMap+Builder+IKeyTranslator, Xamarin.Firebase.Database.Collection;com.google.firebase.database.collection.ImmutableSortedMap$Builder$KeyTranslator
+Firebase.Database.Collection.ImmutableSortedMap.Builder.IKeyTranslator;com.google.firebase.database.collection.ImmutableSortedMap$Builder$KeyTranslator
+com.google.firebase.database.collection.ImmutableSortedMap$Builder$KeyTranslator;com.google.firebase.database.collection.ImmutableSortedMap$Builder$KeyTranslator
+Google.Firestore.V1.DocumentTransform+IFieldTransformOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.DocumentTransform$FieldTransformOrBuilder
+Google.Firestore.V1.DocumentTransform.IFieldTransformOrBuilder;com.google.firestore.v1.DocumentTransform$FieldTransformOrBuilder
+com.google.firestore.v1.DocumentTransform$FieldTransformOrBuilder;com.google.firestore.v1.DocumentTransform$FieldTransformOrBuilder
+Google.Firestore.V1.IArrayValueOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.ArrayValueOrBuilder
+Google.Firestore.V1.IArrayValueOrBuilder;com.google.firestore.v1.ArrayValueOrBuilder
+com.google.firestore.v1.ArrayValueOrBuilder;com.google.firestore.v1.ArrayValueOrBuilder
+Google.Firestore.V1.IBatchGetDocumentsRequestOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.BatchGetDocumentsRequestOrBuilder
+Google.Firestore.V1.IBatchGetDocumentsRequestOrBuilder;com.google.firestore.v1.BatchGetDocumentsRequestOrBuilder
+com.google.firestore.v1.BatchGetDocumentsRequestOrBuilder;com.google.firestore.v1.BatchGetDocumentsRequestOrBuilder
+Google.Firestore.V1.IBatchGetDocumentsResponseOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.BatchGetDocumentsResponseOrBuilder
+Google.Firestore.V1.IBatchGetDocumentsResponseOrBuilder;com.google.firestore.v1.BatchGetDocumentsResponseOrBuilder
+com.google.firestore.v1.BatchGetDocumentsResponseOrBuilder;com.google.firestore.v1.BatchGetDocumentsResponseOrBuilder
+Google.Firestore.V1.IBeginTransactionRequestOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.BeginTransactionRequestOrBuilder
+Google.Firestore.V1.IBeginTransactionRequestOrBuilder;com.google.firestore.v1.BeginTransactionRequestOrBuilder
+com.google.firestore.v1.BeginTransactionRequestOrBuilder;com.google.firestore.v1.BeginTransactionRequestOrBuilder
+Google.Firestore.V1.IBeginTransactionResponseOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.BeginTransactionResponseOrBuilder
+Google.Firestore.V1.IBeginTransactionResponseOrBuilder;com.google.firestore.v1.BeginTransactionResponseOrBuilder
+com.google.firestore.v1.BeginTransactionResponseOrBuilder;com.google.firestore.v1.BeginTransactionResponseOrBuilder
+Google.Firestore.V1.ICommitRequestOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.CommitRequestOrBuilder
+Google.Firestore.V1.ICommitRequestOrBuilder;com.google.firestore.v1.CommitRequestOrBuilder
+com.google.firestore.v1.CommitRequestOrBuilder;com.google.firestore.v1.CommitRequestOrBuilder
+Google.Firestore.V1.ICommitResponseOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.CommitResponseOrBuilder
+Google.Firestore.V1.ICommitResponseOrBuilder;com.google.firestore.v1.CommitResponseOrBuilder
+com.google.firestore.v1.CommitResponseOrBuilder;com.google.firestore.v1.CommitResponseOrBuilder
+Google.Firestore.V1.ICreateDocumentRequestOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.CreateDocumentRequestOrBuilder
+Google.Firestore.V1.ICreateDocumentRequestOrBuilder;com.google.firestore.v1.CreateDocumentRequestOrBuilder
+com.google.firestore.v1.CreateDocumentRequestOrBuilder;com.google.firestore.v1.CreateDocumentRequestOrBuilder
+Google.Firestore.V1.ICursorOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.CursorOrBuilder
+Google.Firestore.V1.ICursorOrBuilder;com.google.firestore.v1.CursorOrBuilder
+com.google.firestore.v1.CursorOrBuilder;com.google.firestore.v1.CursorOrBuilder
+Google.Firestore.V1.IDeleteDocumentRequestOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.DeleteDocumentRequestOrBuilder
+Google.Firestore.V1.IDeleteDocumentRequestOrBuilder;com.google.firestore.v1.DeleteDocumentRequestOrBuilder
+com.google.firestore.v1.DeleteDocumentRequestOrBuilder;com.google.firestore.v1.DeleteDocumentRequestOrBuilder
+Google.Firestore.V1.IDocumentChangeOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.DocumentChangeOrBuilder
+Google.Firestore.V1.IDocumentChangeOrBuilder;com.google.firestore.v1.DocumentChangeOrBuilder
+com.google.firestore.v1.DocumentChangeOrBuilder;com.google.firestore.v1.DocumentChangeOrBuilder
+Google.Firestore.V1.IDocumentDeleteOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.DocumentDeleteOrBuilder
+Google.Firestore.V1.IDocumentDeleteOrBuilder;com.google.firestore.v1.DocumentDeleteOrBuilder
+com.google.firestore.v1.DocumentDeleteOrBuilder;com.google.firestore.v1.DocumentDeleteOrBuilder
+Google.Firestore.V1.IDocumentMaskOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.DocumentMaskOrBuilder
+Google.Firestore.V1.IDocumentMaskOrBuilder;com.google.firestore.v1.DocumentMaskOrBuilder
+com.google.firestore.v1.DocumentMaskOrBuilder;com.google.firestore.v1.DocumentMaskOrBuilder
+Google.Firestore.V1.IDocumentOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.DocumentOrBuilder
+Google.Firestore.V1.IDocumentOrBuilder;com.google.firestore.v1.DocumentOrBuilder
+com.google.firestore.v1.DocumentOrBuilder;com.google.firestore.v1.DocumentOrBuilder
+Google.Firestore.V1.IDocumentRemoveOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.DocumentRemoveOrBuilder
+Google.Firestore.V1.IDocumentRemoveOrBuilder;com.google.firestore.v1.DocumentRemoveOrBuilder
+com.google.firestore.v1.DocumentRemoveOrBuilder;com.google.firestore.v1.DocumentRemoveOrBuilder
+Google.Firestore.V1.IDocumentTransformOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.DocumentTransformOrBuilder
+Google.Firestore.V1.IDocumentTransformOrBuilder;com.google.firestore.v1.DocumentTransformOrBuilder
+com.google.firestore.v1.DocumentTransformOrBuilder;com.google.firestore.v1.DocumentTransformOrBuilder
+Google.Firestore.V1.IExistenceFilterOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.ExistenceFilterOrBuilder
+Google.Firestore.V1.IExistenceFilterOrBuilder;com.google.firestore.v1.ExistenceFilterOrBuilder
+com.google.firestore.v1.ExistenceFilterOrBuilder;com.google.firestore.v1.ExistenceFilterOrBuilder
+Google.Firestore.V1.IGetDocumentRequestOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.GetDocumentRequestOrBuilder
+Google.Firestore.V1.IGetDocumentRequestOrBuilder;com.google.firestore.v1.GetDocumentRequestOrBuilder
+com.google.firestore.v1.GetDocumentRequestOrBuilder;com.google.firestore.v1.GetDocumentRequestOrBuilder
+Google.Firestore.V1.IListCollectionIdsRequestOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.ListCollectionIdsRequestOrBuilder
+Google.Firestore.V1.IListCollectionIdsRequestOrBuilder;com.google.firestore.v1.ListCollectionIdsRequestOrBuilder
+com.google.firestore.v1.ListCollectionIdsRequestOrBuilder;com.google.firestore.v1.ListCollectionIdsRequestOrBuilder
+Google.Firestore.V1.IListCollectionIdsResponseOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.ListCollectionIdsResponseOrBuilder
+Google.Firestore.V1.IListCollectionIdsResponseOrBuilder;com.google.firestore.v1.ListCollectionIdsResponseOrBuilder
+com.google.firestore.v1.ListCollectionIdsResponseOrBuilder;com.google.firestore.v1.ListCollectionIdsResponseOrBuilder
+Google.Firestore.V1.IListDocumentsRequestOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.ListDocumentsRequestOrBuilder
+Google.Firestore.V1.IListDocumentsRequestOrBuilder;com.google.firestore.v1.ListDocumentsRequestOrBuilder
+com.google.firestore.v1.ListDocumentsRequestOrBuilder;com.google.firestore.v1.ListDocumentsRequestOrBuilder
+Google.Firestore.V1.IListDocumentsResponseOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.ListDocumentsResponseOrBuilder
+Google.Firestore.V1.IListDocumentsResponseOrBuilder;com.google.firestore.v1.ListDocumentsResponseOrBuilder
+com.google.firestore.v1.ListDocumentsResponseOrBuilder;com.google.firestore.v1.ListDocumentsResponseOrBuilder
+Google.Firestore.V1.IListenRequestOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.ListenRequestOrBuilder
+Google.Firestore.V1.IListenRequestOrBuilder;com.google.firestore.v1.ListenRequestOrBuilder
+com.google.firestore.v1.ListenRequestOrBuilder;com.google.firestore.v1.ListenRequestOrBuilder
+Google.Firestore.V1.IListenResponseOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.ListenResponseOrBuilder
+Google.Firestore.V1.IListenResponseOrBuilder;com.google.firestore.v1.ListenResponseOrBuilder
+com.google.firestore.v1.ListenResponseOrBuilder;com.google.firestore.v1.ListenResponseOrBuilder
+Google.Firestore.V1.IMapValueOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.MapValueOrBuilder
+Google.Firestore.V1.IMapValueOrBuilder;com.google.firestore.v1.MapValueOrBuilder
+com.google.firestore.v1.MapValueOrBuilder;com.google.firestore.v1.MapValueOrBuilder
+Google.Firestore.V1.IPreconditionOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.PreconditionOrBuilder
+Google.Firestore.V1.IPreconditionOrBuilder;com.google.firestore.v1.PreconditionOrBuilder
+com.google.firestore.v1.PreconditionOrBuilder;com.google.firestore.v1.PreconditionOrBuilder
+Google.Firestore.V1.IRollbackRequestOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.RollbackRequestOrBuilder
+Google.Firestore.V1.IRollbackRequestOrBuilder;com.google.firestore.v1.RollbackRequestOrBuilder
+com.google.firestore.v1.RollbackRequestOrBuilder;com.google.firestore.v1.RollbackRequestOrBuilder
+Google.Firestore.V1.IRunQueryRequestOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.RunQueryRequestOrBuilder
+Google.Firestore.V1.IRunQueryRequestOrBuilder;com.google.firestore.v1.RunQueryRequestOrBuilder
+com.google.firestore.v1.RunQueryRequestOrBuilder;com.google.firestore.v1.RunQueryRequestOrBuilder
+Google.Firestore.V1.IRunQueryResponseOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.RunQueryResponseOrBuilder
+Google.Firestore.V1.IRunQueryResponseOrBuilder;com.google.firestore.v1.RunQueryResponseOrBuilder
+com.google.firestore.v1.RunQueryResponseOrBuilder;com.google.firestore.v1.RunQueryResponseOrBuilder
+Google.Firestore.V1.IStructuredQueryOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.StructuredQueryOrBuilder
+Google.Firestore.V1.IStructuredQueryOrBuilder;com.google.firestore.v1.StructuredQueryOrBuilder
+com.google.firestore.v1.StructuredQueryOrBuilder;com.google.firestore.v1.StructuredQueryOrBuilder
+Google.Firestore.V1.ITargetChangeOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.TargetChangeOrBuilder
+Google.Firestore.V1.ITargetChangeOrBuilder;com.google.firestore.v1.TargetChangeOrBuilder
+com.google.firestore.v1.TargetChangeOrBuilder;com.google.firestore.v1.TargetChangeOrBuilder
+Google.Firestore.V1.ITargetOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.TargetOrBuilder
+Google.Firestore.V1.ITargetOrBuilder;com.google.firestore.v1.TargetOrBuilder
+com.google.firestore.v1.TargetOrBuilder;com.google.firestore.v1.TargetOrBuilder
+Google.Firestore.V1.ITransactionOptionsOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.TransactionOptionsOrBuilder
+Google.Firestore.V1.ITransactionOptionsOrBuilder;com.google.firestore.v1.TransactionOptionsOrBuilder
+com.google.firestore.v1.TransactionOptionsOrBuilder;com.google.firestore.v1.TransactionOptionsOrBuilder
+Google.Firestore.V1.IUpdateDocumentRequestOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.UpdateDocumentRequestOrBuilder
+Google.Firestore.V1.IUpdateDocumentRequestOrBuilder;com.google.firestore.v1.UpdateDocumentRequestOrBuilder
+com.google.firestore.v1.UpdateDocumentRequestOrBuilder;com.google.firestore.v1.UpdateDocumentRequestOrBuilder
+Google.Firestore.V1.IValueOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.ValueOrBuilder
+Google.Firestore.V1.IValueOrBuilder;com.google.firestore.v1.ValueOrBuilder
+com.google.firestore.v1.ValueOrBuilder;com.google.firestore.v1.ValueOrBuilder
+Google.Firestore.V1.IWriteOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.WriteOrBuilder
+Google.Firestore.V1.IWriteOrBuilder;com.google.firestore.v1.WriteOrBuilder
+com.google.firestore.v1.WriteOrBuilder;com.google.firestore.v1.WriteOrBuilder
+Google.Firestore.V1.IWriteRequestOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.WriteRequestOrBuilder
+Google.Firestore.V1.IWriteRequestOrBuilder;com.google.firestore.v1.WriteRequestOrBuilder
+com.google.firestore.v1.WriteRequestOrBuilder;com.google.firestore.v1.WriteRequestOrBuilder
+Google.Firestore.V1.IWriteResponseOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.WriteResponseOrBuilder
+Google.Firestore.V1.IWriteResponseOrBuilder;com.google.firestore.v1.WriteResponseOrBuilder
+com.google.firestore.v1.WriteResponseOrBuilder;com.google.firestore.v1.WriteResponseOrBuilder
+Google.Firestore.V1.IWriteResultOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.WriteResultOrBuilder
+Google.Firestore.V1.IWriteResultOrBuilder;com.google.firestore.v1.WriteResultOrBuilder
+com.google.firestore.v1.WriteResultOrBuilder;com.google.firestore.v1.WriteResultOrBuilder
+Google.Firestore.V1.StructuredQuery+ICollectionSelectorOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.StructuredQuery$CollectionSelectorOrBuilder
+Google.Firestore.V1.StructuredQuery.ICollectionSelectorOrBuilder;com.google.firestore.v1.StructuredQuery$CollectionSelectorOrBuilder
+com.google.firestore.v1.StructuredQuery$CollectionSelectorOrBuilder;com.google.firestore.v1.StructuredQuery$CollectionSelectorOrBuilder
+Google.Firestore.V1.StructuredQuery+ICompositeFilterOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.StructuredQuery$CompositeFilterOrBuilder
+Google.Firestore.V1.StructuredQuery.ICompositeFilterOrBuilder;com.google.firestore.v1.StructuredQuery$CompositeFilterOrBuilder
+com.google.firestore.v1.StructuredQuery$CompositeFilterOrBuilder;com.google.firestore.v1.StructuredQuery$CompositeFilterOrBuilder
+Google.Firestore.V1.StructuredQuery+IFieldFilterOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.StructuredQuery$FieldFilterOrBuilder
+Google.Firestore.V1.StructuredQuery.IFieldFilterOrBuilder;com.google.firestore.v1.StructuredQuery$FieldFilterOrBuilder
+com.google.firestore.v1.StructuredQuery$FieldFilterOrBuilder;com.google.firestore.v1.StructuredQuery$FieldFilterOrBuilder
+Google.Firestore.V1.StructuredQuery+IFieldReferenceOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.StructuredQuery$FieldReferenceOrBuilder
+Google.Firestore.V1.StructuredQuery.IFieldReferenceOrBuilder;com.google.firestore.v1.StructuredQuery$FieldReferenceOrBuilder
+com.google.firestore.v1.StructuredQuery$FieldReferenceOrBuilder;com.google.firestore.v1.StructuredQuery$FieldReferenceOrBuilder
+Google.Firestore.V1.StructuredQuery+IFilterOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.StructuredQuery$FilterOrBuilder
+Google.Firestore.V1.StructuredQuery.IFilterOrBuilder;com.google.firestore.v1.StructuredQuery$FilterOrBuilder
+com.google.firestore.v1.StructuredQuery$FilterOrBuilder;com.google.firestore.v1.StructuredQuery$FilterOrBuilder
+Google.Firestore.V1.StructuredQuery+IOrderOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.StructuredQuery$OrderOrBuilder
+Google.Firestore.V1.StructuredQuery.IOrderOrBuilder;com.google.firestore.v1.StructuredQuery$OrderOrBuilder
+com.google.firestore.v1.StructuredQuery$OrderOrBuilder;com.google.firestore.v1.StructuredQuery$OrderOrBuilder
+Google.Firestore.V1.StructuredQuery+IProjectionOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.StructuredQuery$ProjectionOrBuilder
+Google.Firestore.V1.StructuredQuery.IProjectionOrBuilder;com.google.firestore.v1.StructuredQuery$ProjectionOrBuilder
+com.google.firestore.v1.StructuredQuery$ProjectionOrBuilder;com.google.firestore.v1.StructuredQuery$ProjectionOrBuilder
+Google.Firestore.V1.StructuredQuery+IUnaryFilterOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.StructuredQuery$UnaryFilterOrBuilder
+Google.Firestore.V1.StructuredQuery.IUnaryFilterOrBuilder;com.google.firestore.v1.StructuredQuery$UnaryFilterOrBuilder
+com.google.firestore.v1.StructuredQuery$UnaryFilterOrBuilder;com.google.firestore.v1.StructuredQuery$UnaryFilterOrBuilder
+Google.Firestore.V1.Target+IDocumentsTargetOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.Target$DocumentsTargetOrBuilder
+Google.Firestore.V1.Target.IDocumentsTargetOrBuilder;com.google.firestore.v1.Target$DocumentsTargetOrBuilder
+com.google.firestore.v1.Target$DocumentsTargetOrBuilder;com.google.firestore.v1.Target$DocumentsTargetOrBuilder
+Google.Firestore.V1.Target+IQueryTargetOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.Target$QueryTargetOrBuilder
+Google.Firestore.V1.Target.IQueryTargetOrBuilder;com.google.firestore.v1.Target$QueryTargetOrBuilder
+com.google.firestore.v1.Target$QueryTargetOrBuilder;com.google.firestore.v1.Target$QueryTargetOrBuilder
+Google.Firestore.V1.TransactionOptions+IReadOnlyOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.TransactionOptions$ReadOnlyOrBuilder
+Google.Firestore.V1.TransactionOptions.IReadOnlyOrBuilder;com.google.firestore.v1.TransactionOptions$ReadOnlyOrBuilder
+com.google.firestore.v1.TransactionOptions$ReadOnlyOrBuilder;com.google.firestore.v1.TransactionOptions$ReadOnlyOrBuilder
+Google.Firestore.V1.TransactionOptions+IReadWriteOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.v1.TransactionOptions$ReadWriteOrBuilder
+Google.Firestore.V1.TransactionOptions.IReadWriteOrBuilder;com.google.firestore.v1.TransactionOptions$ReadWriteOrBuilder
+com.google.firestore.v1.TransactionOptions$ReadWriteOrBuilder;com.google.firestore.v1.TransactionOptions$ReadWriteOrBuilder
+Firestore.Bundle.IBundledDocumentMetadataOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.bundle.BundledDocumentMetadataOrBuilder
+Firestore.Bundle.IBundledDocumentMetadataOrBuilder;com.google.firestore.bundle.BundledDocumentMetadataOrBuilder
+com.google.firestore.bundle.BundledDocumentMetadataOrBuilder;com.google.firestore.bundle.BundledDocumentMetadataOrBuilder
+Firestore.Bundle.IBundledQueryOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.bundle.BundledQueryOrBuilder
+Firestore.Bundle.IBundledQueryOrBuilder;com.google.firestore.bundle.BundledQueryOrBuilder
+com.google.firestore.bundle.BundledQueryOrBuilder;com.google.firestore.bundle.BundledQueryOrBuilder
+Firestore.Bundle.IBundleElementOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.bundle.BundleElementOrBuilder
+Firestore.Bundle.IBundleElementOrBuilder;com.google.firestore.bundle.BundleElementOrBuilder
+com.google.firestore.bundle.BundleElementOrBuilder;com.google.firestore.bundle.BundleElementOrBuilder
+Firestore.Bundle.IBundleMetadataOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.bundle.BundleMetadataOrBuilder
+Firestore.Bundle.IBundleMetadataOrBuilder;com.google.firestore.bundle.BundleMetadataOrBuilder
+com.google.firestore.bundle.BundleMetadataOrBuilder;com.google.firestore.bundle.BundleMetadataOrBuilder
+Firestore.Bundle.INamedQueryOrBuilder, Xamarin.Firebase.Firestore;com.google.firestore.bundle.NamedQueryOrBuilder
+Firestore.Bundle.INamedQueryOrBuilder;com.google.firestore.bundle.NamedQueryOrBuilder
+com.google.firestore.bundle.NamedQueryOrBuilder;com.google.firestore.bundle.NamedQueryOrBuilder
+Firebase.Firestore.FirebaseFirestore+IInstanceRegistry, Xamarin.Firebase.Firestore;com.google.firebase.firestore.FirebaseFirestore$InstanceRegistry
+Firebase.Firestore.FirebaseFirestore.IInstanceRegistry;com.google.firebase.firestore.FirebaseFirestore$InstanceRegistry
+com.google.firebase.firestore.FirebaseFirestore$InstanceRegistry;com.google.firebase.firestore.FirebaseFirestore$InstanceRegistry
+Firebase.Firestore.IDocumentId, Xamarin.Firebase.Firestore;com.google.firebase.firestore.DocumentId
+Firebase.Firestore.IDocumentId;com.google.firebase.firestore.DocumentId
+com.google.firebase.firestore.DocumentId;com.google.firebase.firestore.DocumentId
+Firebase.Firestore.IEventListener, Xamarin.Firebase.Firestore;com.google.firebase.firestore.EventListener
+Firebase.Firestore.IEventListener;com.google.firebase.firestore.EventListener
+com.google.firebase.firestore.EventListener;com.google.firebase.firestore.EventListener
+Firebase.Firestore.IEventListenerImplementor, Xamarin.Firebase.Firestore;mono.com.google.firebase.firestore.EventListenerImplementor
+Firebase.Firestore.IEventListenerImplementor;mono.com.google.firebase.firestore.EventListenerImplementor
+mono.com.google.firebase.firestore.EventListenerImplementor;mono.com.google.firebase.firestore.EventListenerImplementor
+Firebase.Firestore.IExclude, Xamarin.Firebase.Firestore;com.google.firebase.firestore.Exclude
+Firebase.Firestore.IExclude;com.google.firebase.firestore.Exclude
+com.google.firebase.firestore.Exclude;com.google.firebase.firestore.Exclude
+Firebase.Firestore.IIgnoreExtraProperties, Xamarin.Firebase.Firestore;com.google.firebase.firestore.IgnoreExtraProperties
+Firebase.Firestore.IIgnoreExtraProperties;com.google.firebase.firestore.IgnoreExtraProperties
+com.google.firebase.firestore.IgnoreExtraProperties;com.google.firebase.firestore.IgnoreExtraProperties
+Firebase.Firestore.IListenerRegistration, Xamarin.Firebase.Firestore;com.google.firebase.firestore.ListenerRegistration
+Firebase.Firestore.IListenerRegistration;com.google.firebase.firestore.ListenerRegistration
+com.google.firebase.firestore.ListenerRegistration;com.google.firebase.firestore.ListenerRegistration
+Firebase.Firestore.IOnProgressListener, Xamarin.Firebase.Firestore;com.google.firebase.firestore.OnProgressListener
+Firebase.Firestore.IOnProgressListener;com.google.firebase.firestore.OnProgressListener
+com.google.firebase.firestore.OnProgressListener;com.google.firebase.firestore.OnProgressListener
+Firebase.Firestore.IOnProgressListenerImplementor, Xamarin.Firebase.Firestore;mono.com.google.firebase.firestore.OnProgressListenerImplementor
+Firebase.Firestore.IOnProgressListenerImplementor;mono.com.google.firebase.firestore.OnProgressListenerImplementor
+mono.com.google.firebase.firestore.OnProgressListenerImplementor;mono.com.google.firebase.firestore.OnProgressListenerImplementor
+Firebase.Firestore.IPropertyName, Xamarin.Firebase.Firestore;com.google.firebase.firestore.PropertyName
+Firebase.Firestore.IPropertyName;com.google.firebase.firestore.PropertyName
+com.google.firebase.firestore.PropertyName;com.google.firebase.firestore.PropertyName
+Firebase.Firestore.IServerTimestamp, Xamarin.Firebase.Firestore;com.google.firebase.firestore.ServerTimestamp
+Firebase.Firestore.IServerTimestamp;com.google.firebase.firestore.ServerTimestamp
+com.google.firebase.firestore.ServerTimestamp;com.google.firebase.firestore.ServerTimestamp
+Firebase.Firestore.IThrowOnExtraProperties, Xamarin.Firebase.Firestore;com.google.firebase.firestore.ThrowOnExtraProperties
+Firebase.Firestore.IThrowOnExtraProperties;com.google.firebase.firestore.ThrowOnExtraProperties
+com.google.firebase.firestore.ThrowOnExtraProperties;com.google.firebase.firestore.ThrowOnExtraProperties
+Firebase.Firestore.Transaction+IFunction, Xamarin.Firebase.Firestore;com.google.firebase.firestore.Transaction$Function
+Firebase.Firestore.Transaction.IFunction;com.google.firebase.firestore.Transaction$Function
+com.google.firebase.firestore.Transaction$Function;com.google.firebase.firestore.Transaction$Function
+Firebase.Firestore.WriteBatch+IFunction, Xamarin.Firebase.Firestore;com.google.firebase.firestore.WriteBatch$Function
+Firebase.Firestore.WriteBatch.IFunction;com.google.firebase.firestore.WriteBatch$Function
+com.google.firebase.firestore.WriteBatch$Function;com.google.firebase.firestore.WriteBatch$Function
+Firebase.Firestore.Util.IConsumer, Xamarin.Firebase.Firestore;com.google.firebase.firestore.util.Consumer
+Firebase.Firestore.Util.IConsumer;com.google.firebase.firestore.util.Consumer
+com.google.firebase.firestore.util.Consumer;com.google.firebase.firestore.util.Consumer
+Firebase.Firestore.Util.IFunction, Xamarin.Firebase.Firestore;com.google.firebase.firestore.util.Function
+Firebase.Firestore.Util.IFunction;com.google.firebase.firestore.util.Function
+com.google.firebase.firestore.util.Function;com.google.firebase.firestore.util.Function
+Firebase.Firestore.Util.IListener, Xamarin.Firebase.Firestore;com.google.firebase.firestore.util.Listener
+Firebase.Firestore.Util.IListener;com.google.firebase.firestore.util.Listener
+com.google.firebase.firestore.util.Listener;com.google.firebase.firestore.util.Listener
+Firebase.Firestore.Util.IListenerImplementor, Xamarin.Firebase.Firestore;mono.com.google.firebase.firestore.util.ListenerImplementor
+Firebase.Firestore.Util.IListenerImplementor;mono.com.google.firebase.firestore.util.ListenerImplementor
+mono.com.google.firebase.firestore.util.ListenerImplementor;mono.com.google.firebase.firestore.util.ListenerImplementor
+Firebase.Firestore.Util.ISupplier, Xamarin.Firebase.Firestore;com.google.firebase.firestore.util.Supplier
+Firebase.Firestore.Util.ISupplier;com.google.firebase.firestore.util.Supplier
+com.google.firebase.firestore.util.Supplier;com.google.firebase.firestore.util.Supplier
+Firebase.Firestore.Remote.IConnectivityMonitor, Xamarin.Firebase.Firestore;com.google.firebase.firestore.remote.ConnectivityMonitor
+Firebase.Firestore.Remote.IConnectivityMonitor;com.google.firebase.firestore.remote.ConnectivityMonitor
+com.google.firebase.firestore.remote.ConnectivityMonitor;com.google.firebase.firestore.remote.ConnectivityMonitor
+Firebase.Firestore.Remote.IGrpcMetadataProvider, Xamarin.Firebase.Firestore;com.google.firebase.firestore.remote.GrpcMetadataProvider
+Firebase.Firestore.Remote.IGrpcMetadataProvider;com.google.firebase.firestore.remote.GrpcMetadataProvider
+com.google.firebase.firestore.remote.GrpcMetadataProvider;com.google.firebase.firestore.remote.GrpcMetadataProvider
+Firebase.Firestore.Remote.IStreamStreamCallback, Xamarin.Firebase.Firestore;com.google.firebase.firestore.remote.Stream$StreamCallback
+Firebase.Firestore.Remote.IStreamStreamCallback;com.google.firebase.firestore.remote.Stream$StreamCallback
+com.google.firebase.firestore.remote.Stream$StreamCallback;com.google.firebase.firestore.remote.Stream$StreamCallback
+Firebase.Firestore.Remote.IStream, Xamarin.Firebase.Firestore;com.google.firebase.firestore.remote.Stream
+Firebase.Firestore.Remote.IStream;com.google.firebase.firestore.remote.Stream
+com.google.firebase.firestore.remote.Stream;com.google.firebase.firestore.remote.Stream
+Firebase.Firestore.Remote.RemoteStore+IRemoteStoreCallback, Xamarin.Firebase.Firestore;com.google.firebase.firestore.remote.RemoteStore$RemoteStoreCallback
+Firebase.Firestore.Remote.RemoteStore.IRemoteStoreCallback;com.google.firebase.firestore.remote.RemoteStore$RemoteStoreCallback
+com.google.firebase.firestore.remote.RemoteStore$RemoteStoreCallback;com.google.firebase.firestore.remote.RemoteStore$RemoteStoreCallback
+Firebase.Firestore.Remote.WatchChangeAggregator+ITargetMetadataProvider, Xamarin.Firebase.Firestore;com.google.firebase.firestore.remote.WatchChangeAggregator$TargetMetadataProvider
+Firebase.Firestore.Remote.WatchChangeAggregator.ITargetMetadataProvider;com.google.firebase.firestore.remote.WatchChangeAggregator$TargetMetadataProvider
+com.google.firebase.firestore.remote.WatchChangeAggregator$TargetMetadataProvider;com.google.firebase.firestore.remote.WatchChangeAggregator$TargetMetadataProvider
+Firebase.Firestore.Remote.WriteStream+ICallback, Xamarin.Firebase.Firestore;com.google.firebase.firestore.remote.WriteStream$Callback
+Firebase.Firestore.Remote.WriteStream.ICallback;com.google.firebase.firestore.remote.WriteStream$Callback
+com.google.firebase.firestore.remote.WriteStream$Callback;com.google.firebase.firestore.remote.WriteStream$Callback
+Firebase.Firestore.Proto.IMaybeDocumentOrBuilder, Xamarin.Firebase.Firestore;com.google.firebase.firestore.proto.MaybeDocumentOrBuilder
+Firebase.Firestore.Proto.IMaybeDocumentOrBuilder;com.google.firebase.firestore.proto.MaybeDocumentOrBuilder
+com.google.firebase.firestore.proto.MaybeDocumentOrBuilder;com.google.firebase.firestore.proto.MaybeDocumentOrBuilder
+Firebase.Firestore.Proto.IMutationQueueOrBuilder, Xamarin.Firebase.Firestore;com.google.firebase.firestore.proto.MutationQueueOrBuilder
+Firebase.Firestore.Proto.IMutationQueueOrBuilder;com.google.firebase.firestore.proto.MutationQueueOrBuilder
+com.google.firebase.firestore.proto.MutationQueueOrBuilder;com.google.firebase.firestore.proto.MutationQueueOrBuilder
+Firebase.Firestore.Proto.INoDocumentOrBuilder, Xamarin.Firebase.Firestore;com.google.firebase.firestore.proto.NoDocumentOrBuilder
+Firebase.Firestore.Proto.INoDocumentOrBuilder;com.google.firebase.firestore.proto.NoDocumentOrBuilder
+com.google.firebase.firestore.proto.NoDocumentOrBuilder;com.google.firebase.firestore.proto.NoDocumentOrBuilder
+Firebase.Firestore.Proto.ITargetGlobalOrBuilder, Xamarin.Firebase.Firestore;com.google.firebase.firestore.proto.TargetGlobalOrBuilder
+Firebase.Firestore.Proto.ITargetGlobalOrBuilder;com.google.firebase.firestore.proto.TargetGlobalOrBuilder
+com.google.firebase.firestore.proto.TargetGlobalOrBuilder;com.google.firebase.firestore.proto.TargetGlobalOrBuilder
+Firebase.Firestore.Proto.ITargetOrBuilder, Xamarin.Firebase.Firestore;com.google.firebase.firestore.proto.TargetOrBuilder
+Firebase.Firestore.Proto.ITargetOrBuilder;com.google.firebase.firestore.proto.TargetOrBuilder
+com.google.firebase.firestore.proto.TargetOrBuilder;com.google.firebase.firestore.proto.TargetOrBuilder
+Firebase.Firestore.Proto.IUnknownDocumentOrBuilder, Xamarin.Firebase.Firestore;com.google.firebase.firestore.proto.UnknownDocumentOrBuilder
+Firebase.Firestore.Proto.IUnknownDocumentOrBuilder;com.google.firebase.firestore.proto.UnknownDocumentOrBuilder
+com.google.firebase.firestore.proto.UnknownDocumentOrBuilder;com.google.firebase.firestore.proto.UnknownDocumentOrBuilder
+Firebase.Firestore.Proto.IWriteBatchOrBuilder, Xamarin.Firebase.Firestore;com.google.firebase.firestore.proto.WriteBatchOrBuilder
+Firebase.Firestore.Proto.IWriteBatchOrBuilder;com.google.firebase.firestore.proto.WriteBatchOrBuilder
+com.google.firebase.firestore.proto.WriteBatchOrBuilder;com.google.firebase.firestore.proto.WriteBatchOrBuilder
+Firebase.Firestore.Model.IDocument, Xamarin.Firebase.Firestore;com.google.firebase.firestore.model.Document
+Firebase.Firestore.Model.IDocument;com.google.firebase.firestore.model.Document
+com.google.firebase.firestore.model.Document;com.google.firebase.firestore.model.Document
+Firebase.Firestore.Model.Mutation.ITransformOperation, Xamarin.Firebase.Firestore;com.google.firebase.firestore.model.mutation.TransformOperation
+Firebase.Firestore.Model.Mutation.ITransformOperation;com.google.firebase.firestore.model.mutation.TransformOperation
+com.google.firebase.firestore.model.mutation.TransformOperation;com.google.firebase.firestore.model.mutation.TransformOperation
+Firebase.Firestore.Local.IBundleCache, Xamarin.Firebase.Firestore;com.google.firebase.firestore.local.BundleCache
+Firebase.Firestore.Local.IBundleCache;com.google.firebase.firestore.local.BundleCache
+com.google.firebase.firestore.local.BundleCache;com.google.firebase.firestore.local.BundleCache
+Firebase.Firestore.Local.IGarbageCollectionScheduler, Xamarin.Firebase.Firestore;com.google.firebase.firestore.local.GarbageCollectionScheduler
+Firebase.Firestore.Local.IGarbageCollectionScheduler;com.google.firebase.firestore.local.GarbageCollectionScheduler
+com.google.firebase.firestore.local.GarbageCollectionScheduler;com.google.firebase.firestore.local.GarbageCollectionScheduler
+Firebase.Firestore.Local.IIndexManager, Xamarin.Firebase.Firestore;com.google.firebase.firestore.local.IndexManager
+Firebase.Firestore.Local.IIndexManager;com.google.firebase.firestore.local.IndexManager
+com.google.firebase.firestore.local.IndexManager;com.google.firebase.firestore.local.IndexManager
+Firebase.Firestore.Local.ILruDelegate, Xamarin.Firebase.Firestore;com.google.firebase.firestore.local.LruDelegate
+Firebase.Firestore.Local.ILruDelegate;com.google.firebase.firestore.local.LruDelegate
+com.google.firebase.firestore.local.LruDelegate;com.google.firebase.firestore.local.LruDelegate
+Firebase.Firestore.Local.IQueryEngine, Xamarin.Firebase.Firestore;com.google.firebase.firestore.local.QueryEngine
+Firebase.Firestore.Local.IQueryEngine;com.google.firebase.firestore.local.QueryEngine
+com.google.firebase.firestore.local.QueryEngine;com.google.firebase.firestore.local.QueryEngine
+Firebase.Firestore.Bundle.IBundleCallback, Xamarin.Firebase.Firestore;com.google.firebase.firestore.bundle.BundleCallback
+Firebase.Firestore.Bundle.IBundleCallback;com.google.firebase.firestore.bundle.BundleCallback
+com.google.firebase.firestore.bundle.BundleCallback;com.google.firebase.firestore.bundle.BundleCallback
+Firebase.Firestore.Bundle.IBundleElement, Xamarin.Firebase.Firestore;com.google.firebase.firestore.bundle.BundleElement
+Firebase.Firestore.Bundle.IBundleElement;com.google.firebase.firestore.bundle.BundleElement
+com.google.firebase.firestore.bundle.BundleElement;com.google.firebase.firestore.bundle.BundleElement
+Google.Type.IColorOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.type.ColorOrBuilder
+Google.Type.IColorOrBuilder;com.google.type.ColorOrBuilder
+com.google.type.ColorOrBuilder;com.google.type.ColorOrBuilder
+Google.Type.IDateOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.type.DateOrBuilder
+Google.Type.IDateOrBuilder;com.google.type.DateOrBuilder
+com.google.type.DateOrBuilder;com.google.type.DateOrBuilder
+Google.Type.IDateTimeOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.type.DateTimeOrBuilder
+Google.Type.IDateTimeOrBuilder;com.google.type.DateTimeOrBuilder
+com.google.type.DateTimeOrBuilder;com.google.type.DateTimeOrBuilder
+Google.Type.IExprOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.type.ExprOrBuilder
+Google.Type.IExprOrBuilder;com.google.type.ExprOrBuilder
+com.google.type.ExprOrBuilder;com.google.type.ExprOrBuilder
+Google.Type.IFractionOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.type.FractionOrBuilder
+Google.Type.IFractionOrBuilder;com.google.type.FractionOrBuilder
+com.google.type.FractionOrBuilder;com.google.type.FractionOrBuilder
+Google.Type.ILatLngOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.type.LatLngOrBuilder
+Google.Type.ILatLngOrBuilder;com.google.type.LatLngOrBuilder
+com.google.type.LatLngOrBuilder;com.google.type.LatLngOrBuilder
+Google.Type.IMoneyOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.type.MoneyOrBuilder
+Google.Type.IMoneyOrBuilder;com.google.type.MoneyOrBuilder
+com.google.type.MoneyOrBuilder;com.google.type.MoneyOrBuilder
+Google.Type.IPostalAddressOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.type.PostalAddressOrBuilder
+Google.Type.IPostalAddressOrBuilder;com.google.type.PostalAddressOrBuilder
+com.google.type.PostalAddressOrBuilder;com.google.type.PostalAddressOrBuilder
+Google.Type.IQuaternionOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.type.QuaternionOrBuilder
+Google.Type.IQuaternionOrBuilder;com.google.type.QuaternionOrBuilder
+com.google.type.QuaternionOrBuilder;com.google.type.QuaternionOrBuilder
+Google.Type.ITimeOfDayOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.type.TimeOfDayOrBuilder
+Google.Type.ITimeOfDayOrBuilder;com.google.type.TimeOfDayOrBuilder
+com.google.type.TimeOfDayOrBuilder;com.google.type.TimeOfDayOrBuilder
+Google.Type.ITimeZoneOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.type.TimeZoneOrBuilder
+Google.Type.ITimeZoneOrBuilder;com.google.type.TimeZoneOrBuilder
+com.google.type.TimeZoneOrBuilder;com.google.type.TimeZoneOrBuilder
+Google.Rpc.BadRequest+IFieldViolationOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.rpc.BadRequest$FieldViolationOrBuilder
+Google.Rpc.BadRequest.IFieldViolationOrBuilder;com.google.rpc.BadRequest$FieldViolationOrBuilder
+com.google.rpc.BadRequest$FieldViolationOrBuilder;com.google.rpc.BadRequest$FieldViolationOrBuilder
+Google.Rpc.Help+ILinkOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.rpc.Help$LinkOrBuilder
+Google.Rpc.Help.ILinkOrBuilder;com.google.rpc.Help$LinkOrBuilder
+com.google.rpc.Help$LinkOrBuilder;com.google.rpc.Help$LinkOrBuilder
+Google.Rpc.IBadRequestOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.rpc.BadRequestOrBuilder
+Google.Rpc.IBadRequestOrBuilder;com.google.rpc.BadRequestOrBuilder
+com.google.rpc.BadRequestOrBuilder;com.google.rpc.BadRequestOrBuilder
+Google.Rpc.IDebugInfoOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.rpc.DebugInfoOrBuilder
+Google.Rpc.IDebugInfoOrBuilder;com.google.rpc.DebugInfoOrBuilder
+com.google.rpc.DebugInfoOrBuilder;com.google.rpc.DebugInfoOrBuilder
+Google.Rpc.IErrorInfoOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.rpc.ErrorInfoOrBuilder
+Google.Rpc.IErrorInfoOrBuilder;com.google.rpc.ErrorInfoOrBuilder
+com.google.rpc.ErrorInfoOrBuilder;com.google.rpc.ErrorInfoOrBuilder
+Google.Rpc.IHelpOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.rpc.HelpOrBuilder
+Google.Rpc.IHelpOrBuilder;com.google.rpc.HelpOrBuilder
+com.google.rpc.HelpOrBuilder;com.google.rpc.HelpOrBuilder
+Google.Rpc.ILocalizedMessageOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.rpc.LocalizedMessageOrBuilder
+Google.Rpc.ILocalizedMessageOrBuilder;com.google.rpc.LocalizedMessageOrBuilder
+com.google.rpc.LocalizedMessageOrBuilder;com.google.rpc.LocalizedMessageOrBuilder
+Google.Rpc.IPreconditionFailureOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.rpc.PreconditionFailureOrBuilder
+Google.Rpc.IPreconditionFailureOrBuilder;com.google.rpc.PreconditionFailureOrBuilder
+com.google.rpc.PreconditionFailureOrBuilder;com.google.rpc.PreconditionFailureOrBuilder
+Google.Rpc.IQuotaFailureOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.rpc.QuotaFailureOrBuilder
+Google.Rpc.IQuotaFailureOrBuilder;com.google.rpc.QuotaFailureOrBuilder
+com.google.rpc.QuotaFailureOrBuilder;com.google.rpc.QuotaFailureOrBuilder
+Google.Rpc.IRequestInfoOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.rpc.RequestInfoOrBuilder
+Google.Rpc.IRequestInfoOrBuilder;com.google.rpc.RequestInfoOrBuilder
+com.google.rpc.RequestInfoOrBuilder;com.google.rpc.RequestInfoOrBuilder
+Google.Rpc.IResourceInfoOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.rpc.ResourceInfoOrBuilder
+Google.Rpc.IResourceInfoOrBuilder;com.google.rpc.ResourceInfoOrBuilder
+com.google.rpc.ResourceInfoOrBuilder;com.google.rpc.ResourceInfoOrBuilder
+Google.Rpc.IRetryInfoOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.rpc.RetryInfoOrBuilder
+Google.Rpc.IRetryInfoOrBuilder;com.google.rpc.RetryInfoOrBuilder
+com.google.rpc.RetryInfoOrBuilder;com.google.rpc.RetryInfoOrBuilder
+Google.Rpc.IStatusOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.rpc.StatusOrBuilder
+Google.Rpc.IStatusOrBuilder;com.google.rpc.StatusOrBuilder
+com.google.rpc.StatusOrBuilder;com.google.rpc.StatusOrBuilder
+Google.Rpc.PreconditionFailure+IViolationOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.rpc.PreconditionFailure$ViolationOrBuilder
+Google.Rpc.PreconditionFailure.IViolationOrBuilder;com.google.rpc.PreconditionFailure$ViolationOrBuilder
+com.google.rpc.PreconditionFailure$ViolationOrBuilder;com.google.rpc.PreconditionFailure$ViolationOrBuilder
+Google.Rpc.QuotaFailure+IViolationOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.rpc.QuotaFailure$ViolationOrBuilder
+Google.Rpc.QuotaFailure.IViolationOrBuilder;com.google.rpc.QuotaFailure$ViolationOrBuilder
+com.google.rpc.QuotaFailure$ViolationOrBuilder;com.google.rpc.QuotaFailure$ViolationOrBuilder
+Google.Rpc.Context.AttributeContext+IApiOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.rpc.context.AttributeContext$ApiOrBuilder
+Google.Rpc.Context.AttributeContext.IApiOrBuilder;com.google.rpc.context.AttributeContext$ApiOrBuilder
+com.google.rpc.context.AttributeContext$ApiOrBuilder;com.google.rpc.context.AttributeContext$ApiOrBuilder
+Google.Rpc.Context.AttributeContext+IAuthOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.rpc.context.AttributeContext$AuthOrBuilder
+Google.Rpc.Context.AttributeContext.IAuthOrBuilder;com.google.rpc.context.AttributeContext$AuthOrBuilder
+com.google.rpc.context.AttributeContext$AuthOrBuilder;com.google.rpc.context.AttributeContext$AuthOrBuilder
+Google.Rpc.Context.AttributeContext+IPeerOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.rpc.context.AttributeContext$PeerOrBuilder
+Google.Rpc.Context.AttributeContext.IPeerOrBuilder;com.google.rpc.context.AttributeContext$PeerOrBuilder
+com.google.rpc.context.AttributeContext$PeerOrBuilder;com.google.rpc.context.AttributeContext$PeerOrBuilder
+Google.Rpc.Context.AttributeContext+IRequestOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.rpc.context.AttributeContext$RequestOrBuilder
+Google.Rpc.Context.AttributeContext.IRequestOrBuilder;com.google.rpc.context.AttributeContext$RequestOrBuilder
+com.google.rpc.context.AttributeContext$RequestOrBuilder;com.google.rpc.context.AttributeContext$RequestOrBuilder
+Google.Rpc.Context.AttributeContext+IResourceOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.rpc.context.AttributeContext$ResourceOrBuilder
+Google.Rpc.Context.AttributeContext.IResourceOrBuilder;com.google.rpc.context.AttributeContext$ResourceOrBuilder
+com.google.rpc.context.AttributeContext$ResourceOrBuilder;com.google.rpc.context.AttributeContext$ResourceOrBuilder
+Google.Rpc.Context.AttributeContext+IResponseOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.rpc.context.AttributeContext$ResponseOrBuilder
+Google.Rpc.Context.AttributeContext.IResponseOrBuilder;com.google.rpc.context.AttributeContext$ResponseOrBuilder
+com.google.rpc.context.AttributeContext$ResponseOrBuilder;com.google.rpc.context.AttributeContext$ResponseOrBuilder
+Google.Rpc.Context.IAttributeContextOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.rpc.context.AttributeContextOrBuilder
+Google.Rpc.Context.IAttributeContextOrBuilder;com.google.rpc.context.AttributeContextOrBuilder
+com.google.rpc.context.AttributeContextOrBuilder;com.google.rpc.context.AttributeContextOrBuilder
+Google.Protobuf.DescriptorProtos+DescriptorProto+IExtensionRangeOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.protobuf.DescriptorProtos$DescriptorProto$ExtensionRangeOrBuilder
+Google.Protobuf.DescriptorProtos.DescriptorProto.IExtensionRangeOrBuilder;com.google.protobuf.DescriptorProtos$DescriptorProto$ExtensionRangeOrBuilder
+com.google.protobuf.DescriptorProtos$DescriptorProto$ExtensionRangeOrBuilder;com.google.protobuf.DescriptorProtos$DescriptorProto$ExtensionRangeOrBuilder
+Google.Protobuf.DescriptorProtos+DescriptorProto+IReservedRangeOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.protobuf.DescriptorProtos$DescriptorProto$ReservedRangeOrBuilder
+Google.Protobuf.DescriptorProtos.DescriptorProto.IReservedRangeOrBuilder;com.google.protobuf.DescriptorProtos$DescriptorProto$ReservedRangeOrBuilder
+com.google.protobuf.DescriptorProtos$DescriptorProto$ReservedRangeOrBuilder;com.google.protobuf.DescriptorProtos$DescriptorProto$ReservedRangeOrBuilder
+Google.Protobuf.DescriptorProtos+IDescriptorProtoOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.protobuf.DescriptorProtos$DescriptorProtoOrBuilder
+Google.Protobuf.DescriptorProtos.IDescriptorProtoOrBuilder;com.google.protobuf.DescriptorProtos$DescriptorProtoOrBuilder
+com.google.protobuf.DescriptorProtos$DescriptorProtoOrBuilder;com.google.protobuf.DescriptorProtos$DescriptorProtoOrBuilder
+Google.Protobuf.DescriptorProtos+EnumDescriptorProto+IEnumReservedRangeOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.protobuf.DescriptorProtos$EnumDescriptorProto$EnumReservedRangeOrBuilder
+Google.Protobuf.DescriptorProtos.EnumDescriptorProto.IEnumReservedRangeOrBuilder;com.google.protobuf.DescriptorProtos$EnumDescriptorProto$EnumReservedRangeOrBuilder
+com.google.protobuf.DescriptorProtos$EnumDescriptorProto$EnumReservedRangeOrBuilder;com.google.protobuf.DescriptorProtos$EnumDescriptorProto$EnumReservedRangeOrBuilder
+Google.Protobuf.DescriptorProtos+IEnumDescriptorProtoOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.protobuf.DescriptorProtos$EnumDescriptorProtoOrBuilder
+Google.Protobuf.DescriptorProtos.IEnumDescriptorProtoOrBuilder;com.google.protobuf.DescriptorProtos$EnumDescriptorProtoOrBuilder
+com.google.protobuf.DescriptorProtos$EnumDescriptorProtoOrBuilder;com.google.protobuf.DescriptorProtos$EnumDescriptorProtoOrBuilder
+Google.Protobuf.DescriptorProtos+IEnumOptionsOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.protobuf.DescriptorProtos$EnumOptionsOrBuilder
+Google.Protobuf.DescriptorProtos.IEnumOptionsOrBuilder;com.google.protobuf.DescriptorProtos$EnumOptionsOrBuilder
+com.google.protobuf.DescriptorProtos$EnumOptionsOrBuilder;com.google.protobuf.DescriptorProtos$EnumOptionsOrBuilder
+Google.Protobuf.DescriptorProtos+IEnumValueDescriptorProtoOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.protobuf.DescriptorProtos$EnumValueDescriptorProtoOrBuilder
+Google.Protobuf.DescriptorProtos.IEnumValueDescriptorProtoOrBuilder;com.google.protobuf.DescriptorProtos$EnumValueDescriptorProtoOrBuilder
+com.google.protobuf.DescriptorProtos$EnumValueDescriptorProtoOrBuilder;com.google.protobuf.DescriptorProtos$EnumValueDescriptorProtoOrBuilder
+Google.Protobuf.DescriptorProtos+IEnumValueOptionsOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.protobuf.DescriptorProtos$EnumValueOptionsOrBuilder
+Google.Protobuf.DescriptorProtos.IEnumValueOptionsOrBuilder;com.google.protobuf.DescriptorProtos$EnumValueOptionsOrBuilder
+com.google.protobuf.DescriptorProtos$EnumValueOptionsOrBuilder;com.google.protobuf.DescriptorProtos$EnumValueOptionsOrBuilder
+Google.Protobuf.DescriptorProtos+IExtensionRangeOptionsOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.protobuf.DescriptorProtos$ExtensionRangeOptionsOrBuilder
+Google.Protobuf.DescriptorProtos.IExtensionRangeOptionsOrBuilder;com.google.protobuf.DescriptorProtos$ExtensionRangeOptionsOrBuilder
+com.google.protobuf.DescriptorProtos$ExtensionRangeOptionsOrBuilder;com.google.protobuf.DescriptorProtos$ExtensionRangeOptionsOrBuilder
+Google.Protobuf.DescriptorProtos+IFieldDescriptorProtoOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.protobuf.DescriptorProtos$FieldDescriptorProtoOrBuilder
+Google.Protobuf.DescriptorProtos.IFieldDescriptorProtoOrBuilder;com.google.protobuf.DescriptorProtos$FieldDescriptorProtoOrBuilder
+com.google.protobuf.DescriptorProtos$FieldDescriptorProtoOrBuilder;com.google.protobuf.DescriptorProtos$FieldDescriptorProtoOrBuilder
+Google.Protobuf.DescriptorProtos+IFieldOptionsOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.protobuf.DescriptorProtos$FieldOptionsOrBuilder
+Google.Protobuf.DescriptorProtos.IFieldOptionsOrBuilder;com.google.protobuf.DescriptorProtos$FieldOptionsOrBuilder
+com.google.protobuf.DescriptorProtos$FieldOptionsOrBuilder;com.google.protobuf.DescriptorProtos$FieldOptionsOrBuilder
+Google.Protobuf.DescriptorProtos+IFileDescriptorProtoOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.protobuf.DescriptorProtos$FileDescriptorProtoOrBuilder
+Google.Protobuf.DescriptorProtos.IFileDescriptorProtoOrBuilder;com.google.protobuf.DescriptorProtos$FileDescriptorProtoOrBuilder
+com.google.protobuf.DescriptorProtos$FileDescriptorProtoOrBuilder;com.google.protobuf.DescriptorProtos$FileDescriptorProtoOrBuilder
+Google.Protobuf.DescriptorProtos+IFileDescriptorSetOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.protobuf.DescriptorProtos$FileDescriptorSetOrBuilder
+Google.Protobuf.DescriptorProtos.IFileDescriptorSetOrBuilder;com.google.protobuf.DescriptorProtos$FileDescriptorSetOrBuilder
+com.google.protobuf.DescriptorProtos$FileDescriptorSetOrBuilder;com.google.protobuf.DescriptorProtos$FileDescriptorSetOrBuilder
+Google.Protobuf.DescriptorProtos+IFileOptionsOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.protobuf.DescriptorProtos$FileOptionsOrBuilder
+Google.Protobuf.DescriptorProtos.IFileOptionsOrBuilder;com.google.protobuf.DescriptorProtos$FileOptionsOrBuilder
+com.google.protobuf.DescriptorProtos$FileOptionsOrBuilder;com.google.protobuf.DescriptorProtos$FileOptionsOrBuilder
+Google.Protobuf.DescriptorProtos+GeneratedCodeInfo+IAnnotationOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.protobuf.DescriptorProtos$GeneratedCodeInfo$AnnotationOrBuilder
+Google.Protobuf.DescriptorProtos.GeneratedCodeInfo.IAnnotationOrBuilder;com.google.protobuf.DescriptorProtos$GeneratedCodeInfo$AnnotationOrBuilder
+com.google.protobuf.DescriptorProtos$GeneratedCodeInfo$AnnotationOrBuilder;com.google.protobuf.DescriptorProtos$GeneratedCodeInfo$AnnotationOrBuilder
+Google.Protobuf.DescriptorProtos+IGeneratedCodeInfoOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.protobuf.DescriptorProtos$GeneratedCodeInfoOrBuilder
+Google.Protobuf.DescriptorProtos.IGeneratedCodeInfoOrBuilder;com.google.protobuf.DescriptorProtos$GeneratedCodeInfoOrBuilder
+com.google.protobuf.DescriptorProtos$GeneratedCodeInfoOrBuilder;com.google.protobuf.DescriptorProtos$GeneratedCodeInfoOrBuilder
+Google.Protobuf.DescriptorProtos+IMessageOptionsOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.protobuf.DescriptorProtos$MessageOptionsOrBuilder
+Google.Protobuf.DescriptorProtos.IMessageOptionsOrBuilder;com.google.protobuf.DescriptorProtos$MessageOptionsOrBuilder
+com.google.protobuf.DescriptorProtos$MessageOptionsOrBuilder;com.google.protobuf.DescriptorProtos$MessageOptionsOrBuilder
+Google.Protobuf.DescriptorProtos+IMethodDescriptorProtoOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.protobuf.DescriptorProtos$MethodDescriptorProtoOrBuilder
+Google.Protobuf.DescriptorProtos.IMethodDescriptorProtoOrBuilder;com.google.protobuf.DescriptorProtos$MethodDescriptorProtoOrBuilder
+com.google.protobuf.DescriptorProtos$MethodDescriptorProtoOrBuilder;com.google.protobuf.DescriptorProtos$MethodDescriptorProtoOrBuilder
+Google.Protobuf.DescriptorProtos+IMethodOptionsOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.protobuf.DescriptorProtos$MethodOptionsOrBuilder
+Google.Protobuf.DescriptorProtos.IMethodOptionsOrBuilder;com.google.protobuf.DescriptorProtos$MethodOptionsOrBuilder
+com.google.protobuf.DescriptorProtos$MethodOptionsOrBuilder;com.google.protobuf.DescriptorProtos$MethodOptionsOrBuilder
+Google.Protobuf.DescriptorProtos+IOneofDescriptorProtoOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.protobuf.DescriptorProtos$OneofDescriptorProtoOrBuilder
+Google.Protobuf.DescriptorProtos.IOneofDescriptorProtoOrBuilder;com.google.protobuf.DescriptorProtos$OneofDescriptorProtoOrBuilder
+com.google.protobuf.DescriptorProtos$OneofDescriptorProtoOrBuilder;com.google.protobuf.DescriptorProtos$OneofDescriptorProtoOrBuilder
+Google.Protobuf.DescriptorProtos+IOneofOptionsOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.protobuf.DescriptorProtos$OneofOptionsOrBuilder
+Google.Protobuf.DescriptorProtos.IOneofOptionsOrBuilder;com.google.protobuf.DescriptorProtos$OneofOptionsOrBuilder
+com.google.protobuf.DescriptorProtos$OneofOptionsOrBuilder;com.google.protobuf.DescriptorProtos$OneofOptionsOrBuilder
+Google.Protobuf.DescriptorProtos+IServiceDescriptorProtoOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.protobuf.DescriptorProtos$ServiceDescriptorProtoOrBuilder
+Google.Protobuf.DescriptorProtos.IServiceDescriptorProtoOrBuilder;com.google.protobuf.DescriptorProtos$ServiceDescriptorProtoOrBuilder
+com.google.protobuf.DescriptorProtos$ServiceDescriptorProtoOrBuilder;com.google.protobuf.DescriptorProtos$ServiceDescriptorProtoOrBuilder
+Google.Protobuf.DescriptorProtos+IServiceOptionsOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.protobuf.DescriptorProtos$ServiceOptionsOrBuilder
+Google.Protobuf.DescriptorProtos.IServiceOptionsOrBuilder;com.google.protobuf.DescriptorProtos$ServiceOptionsOrBuilder
+com.google.protobuf.DescriptorProtos$ServiceOptionsOrBuilder;com.google.protobuf.DescriptorProtos$ServiceOptionsOrBuilder
+Google.Protobuf.DescriptorProtos+SourceCodeInfo+ILocationOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.protobuf.DescriptorProtos$SourceCodeInfo$LocationOrBuilder
+Google.Protobuf.DescriptorProtos.SourceCodeInfo.ILocationOrBuilder;com.google.protobuf.DescriptorProtos$SourceCodeInfo$LocationOrBuilder
+com.google.protobuf.DescriptorProtos$SourceCodeInfo$LocationOrBuilder;com.google.protobuf.DescriptorProtos$SourceCodeInfo$LocationOrBuilder
+Google.Protobuf.DescriptorProtos+ISourceCodeInfoOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.protobuf.DescriptorProtos$SourceCodeInfoOrBuilder
+Google.Protobuf.DescriptorProtos.ISourceCodeInfoOrBuilder;com.google.protobuf.DescriptorProtos$SourceCodeInfoOrBuilder
+com.google.protobuf.DescriptorProtos$SourceCodeInfoOrBuilder;com.google.protobuf.DescriptorProtos$SourceCodeInfoOrBuilder
+Google.Protobuf.DescriptorProtos+UninterpretedOption+INamePartOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.protobuf.DescriptorProtos$UninterpretedOption$NamePartOrBuilder
+Google.Protobuf.DescriptorProtos.UninterpretedOption.INamePartOrBuilder;com.google.protobuf.DescriptorProtos$UninterpretedOption$NamePartOrBuilder
+com.google.protobuf.DescriptorProtos$UninterpretedOption$NamePartOrBuilder;com.google.protobuf.DescriptorProtos$UninterpretedOption$NamePartOrBuilder
+Google.Protobuf.DescriptorProtos+IUninterpretedOptionOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.protobuf.DescriptorProtos$UninterpretedOptionOrBuilder
+Google.Protobuf.DescriptorProtos.IUninterpretedOptionOrBuilder;com.google.protobuf.DescriptorProtos$UninterpretedOptionOrBuilder
+com.google.protobuf.DescriptorProtos$UninterpretedOptionOrBuilder;com.google.protobuf.DescriptorProtos$UninterpretedOptionOrBuilder
+Google.Longrunning.ICancelOperationRequestOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.longrunning.CancelOperationRequestOrBuilder
+Google.Longrunning.ICancelOperationRequestOrBuilder;com.google.longrunning.CancelOperationRequestOrBuilder
+com.google.longrunning.CancelOperationRequestOrBuilder;com.google.longrunning.CancelOperationRequestOrBuilder
+Google.Longrunning.IDeleteOperationRequestOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.longrunning.DeleteOperationRequestOrBuilder
+Google.Longrunning.IDeleteOperationRequestOrBuilder;com.google.longrunning.DeleteOperationRequestOrBuilder
+com.google.longrunning.DeleteOperationRequestOrBuilder;com.google.longrunning.DeleteOperationRequestOrBuilder
+Google.Longrunning.IGetOperationRequestOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.longrunning.GetOperationRequestOrBuilder
+Google.Longrunning.IGetOperationRequestOrBuilder;com.google.longrunning.GetOperationRequestOrBuilder
+com.google.longrunning.GetOperationRequestOrBuilder;com.google.longrunning.GetOperationRequestOrBuilder
+Google.Longrunning.IListOperationsRequestOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.longrunning.ListOperationsRequestOrBuilder
+Google.Longrunning.IListOperationsRequestOrBuilder;com.google.longrunning.ListOperationsRequestOrBuilder
+com.google.longrunning.ListOperationsRequestOrBuilder;com.google.longrunning.ListOperationsRequestOrBuilder
+Google.Longrunning.IListOperationsResponseOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.longrunning.ListOperationsResponseOrBuilder
+Google.Longrunning.IListOperationsResponseOrBuilder;com.google.longrunning.ListOperationsResponseOrBuilder
+com.google.longrunning.ListOperationsResponseOrBuilder;com.google.longrunning.ListOperationsResponseOrBuilder
+Google.Longrunning.IOperationInfoOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.longrunning.OperationInfoOrBuilder
+Google.Longrunning.IOperationInfoOrBuilder;com.google.longrunning.OperationInfoOrBuilder
+com.google.longrunning.OperationInfoOrBuilder;com.google.longrunning.OperationInfoOrBuilder
+Google.Longrunning.IOperationOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.longrunning.OperationOrBuilder
+Google.Longrunning.IOperationOrBuilder;com.google.longrunning.OperationOrBuilder
+com.google.longrunning.OperationOrBuilder;com.google.longrunning.OperationOrBuilder
+Google.Longrunning.IWaitOperationRequestOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.longrunning.WaitOperationRequestOrBuilder
+Google.Longrunning.IWaitOperationRequestOrBuilder;com.google.longrunning.WaitOperationRequestOrBuilder
+com.google.longrunning.WaitOperationRequestOrBuilder;com.google.longrunning.WaitOperationRequestOrBuilder
+Google.Logging.Type.IHttpRequestOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.logging.type.HttpRequestOrBuilder
+Google.Logging.Type.IHttpRequestOrBuilder;com.google.logging.type.HttpRequestOrBuilder
+com.google.logging.type.HttpRequestOrBuilder;com.google.logging.type.HttpRequestOrBuilder
+Google.Geo.Type.IViewportOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.geo.type.ViewportOrBuilder
+Google.Geo.Type.IViewportOrBuilder;com.google.geo.type.ViewportOrBuilder
+com.google.geo.type.ViewportOrBuilder;com.google.geo.type.ViewportOrBuilder
+Google.Cloud.Audit.IAuditLogOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.cloud.audit.AuditLogOrBuilder
+Google.Cloud.Audit.IAuditLogOrBuilder;com.google.cloud.audit.AuditLogOrBuilder
+com.google.cloud.audit.AuditLogOrBuilder;com.google.cloud.audit.AuditLogOrBuilder
+Google.Cloud.Audit.IAuthenticationInfoOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.cloud.audit.AuthenticationInfoOrBuilder
+Google.Cloud.Audit.IAuthenticationInfoOrBuilder;com.google.cloud.audit.AuthenticationInfoOrBuilder
+com.google.cloud.audit.AuthenticationInfoOrBuilder;com.google.cloud.audit.AuthenticationInfoOrBuilder
+Google.Cloud.Audit.IAuthorizationInfoOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.cloud.audit.AuthorizationInfoOrBuilder
+Google.Cloud.Audit.IAuthorizationInfoOrBuilder;com.google.cloud.audit.AuthorizationInfoOrBuilder
+com.google.cloud.audit.AuthorizationInfoOrBuilder;com.google.cloud.audit.AuthorizationInfoOrBuilder
+Google.Cloud.Audit.IRequestMetadataOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.cloud.audit.RequestMetadataOrBuilder
+Google.Cloud.Audit.IRequestMetadataOrBuilder;com.google.cloud.audit.RequestMetadataOrBuilder
+com.google.cloud.audit.RequestMetadataOrBuilder;com.google.cloud.audit.RequestMetadataOrBuilder
+Google.Api.Billing+IBillingDestinationOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.Billing$BillingDestinationOrBuilder
+Google.Api.Billing.IBillingDestinationOrBuilder;com.google.api.Billing$BillingDestinationOrBuilder
+com.google.api.Billing$BillingDestinationOrBuilder;com.google.api.Billing$BillingDestinationOrBuilder
+Google.Api.Distribution+BucketOptions+IExplicitOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.Distribution$BucketOptions$ExplicitOrBuilder
+Google.Api.Distribution.BucketOptions.IExplicitOrBuilder;com.google.api.Distribution$BucketOptions$ExplicitOrBuilder
+com.google.api.Distribution$BucketOptions$ExplicitOrBuilder;com.google.api.Distribution$BucketOptions$ExplicitOrBuilder
+Google.Api.Distribution+BucketOptions+IExponentialOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.Distribution$BucketOptions$ExponentialOrBuilder
+Google.Api.Distribution.BucketOptions.IExponentialOrBuilder;com.google.api.Distribution$BucketOptions$ExponentialOrBuilder
+com.google.api.Distribution$BucketOptions$ExponentialOrBuilder;com.google.api.Distribution$BucketOptions$ExponentialOrBuilder
+Google.Api.Distribution+BucketOptions+ILinearOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.Distribution$BucketOptions$LinearOrBuilder
+Google.Api.Distribution.BucketOptions.ILinearOrBuilder;com.google.api.Distribution$BucketOptions$LinearOrBuilder
+com.google.api.Distribution$BucketOptions$LinearOrBuilder;com.google.api.Distribution$BucketOptions$LinearOrBuilder
+Google.Api.Distribution+IBucketOptionsOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.Distribution$BucketOptionsOrBuilder
+Google.Api.Distribution.IBucketOptionsOrBuilder;com.google.api.Distribution$BucketOptionsOrBuilder
+com.google.api.Distribution$BucketOptionsOrBuilder;com.google.api.Distribution$BucketOptionsOrBuilder
+Google.Api.Distribution+IExemplarOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.Distribution$ExemplarOrBuilder
+Google.Api.Distribution.IExemplarOrBuilder;com.google.api.Distribution$ExemplarOrBuilder
+com.google.api.Distribution$ExemplarOrBuilder;com.google.api.Distribution$ExemplarOrBuilder
+Google.Api.Distribution+IRangeOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.Distribution$RangeOrBuilder
+Google.Api.Distribution.IRangeOrBuilder;com.google.api.Distribution$RangeOrBuilder
+com.google.api.Distribution$RangeOrBuilder;com.google.api.Distribution$RangeOrBuilder
+Google.Api.IAdviceOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.AdviceOrBuilder
+Google.Api.IAdviceOrBuilder;com.google.api.AdviceOrBuilder
+com.google.api.AdviceOrBuilder;com.google.api.AdviceOrBuilder
+Google.Api.IAuthenticationOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.AuthenticationOrBuilder
+Google.Api.IAuthenticationOrBuilder;com.google.api.AuthenticationOrBuilder
+com.google.api.AuthenticationOrBuilder;com.google.api.AuthenticationOrBuilder
+Google.Api.IAuthenticationRuleOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.AuthenticationRuleOrBuilder
+Google.Api.IAuthenticationRuleOrBuilder;com.google.api.AuthenticationRuleOrBuilder
+com.google.api.AuthenticationRuleOrBuilder;com.google.api.AuthenticationRuleOrBuilder
+Google.Api.IAuthProviderOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.AuthProviderOrBuilder
+Google.Api.IAuthProviderOrBuilder;com.google.api.AuthProviderOrBuilder
+com.google.api.AuthProviderOrBuilder;com.google.api.AuthProviderOrBuilder
+Google.Api.IAuthRequirementOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.AuthRequirementOrBuilder
+Google.Api.IAuthRequirementOrBuilder;com.google.api.AuthRequirementOrBuilder
+com.google.api.AuthRequirementOrBuilder;com.google.api.AuthRequirementOrBuilder
+Google.Api.IBackendOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.BackendOrBuilder
+Google.Api.IBackendOrBuilder;com.google.api.BackendOrBuilder
+com.google.api.BackendOrBuilder;com.google.api.BackendOrBuilder
+Google.Api.IBackendRuleOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.BackendRuleOrBuilder
+Google.Api.IBackendRuleOrBuilder;com.google.api.BackendRuleOrBuilder
+com.google.api.BackendRuleOrBuilder;com.google.api.BackendRuleOrBuilder
+Google.Api.IBillingOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.BillingOrBuilder
+Google.Api.IBillingOrBuilder;com.google.api.BillingOrBuilder
+com.google.api.BillingOrBuilder;com.google.api.BillingOrBuilder
+Google.Api.IConfigChangeOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.ConfigChangeOrBuilder
+Google.Api.IConfigChangeOrBuilder;com.google.api.ConfigChangeOrBuilder
+com.google.api.ConfigChangeOrBuilder;com.google.api.ConfigChangeOrBuilder
+Google.Api.IContextOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.ContextOrBuilder
+Google.Api.IContextOrBuilder;com.google.api.ContextOrBuilder
+com.google.api.ContextOrBuilder;com.google.api.ContextOrBuilder
+Google.Api.IContextRuleOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.ContextRuleOrBuilder
+Google.Api.IContextRuleOrBuilder;com.google.api.ContextRuleOrBuilder
+com.google.api.ContextRuleOrBuilder;com.google.api.ContextRuleOrBuilder
+Google.Api.IControlOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.ControlOrBuilder
+Google.Api.IControlOrBuilder;com.google.api.ControlOrBuilder
+com.google.api.ControlOrBuilder;com.google.api.ControlOrBuilder
+Google.Api.ICustomHttpPatternOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.CustomHttpPatternOrBuilder
+Google.Api.ICustomHttpPatternOrBuilder;com.google.api.CustomHttpPatternOrBuilder
+com.google.api.CustomHttpPatternOrBuilder;com.google.api.CustomHttpPatternOrBuilder
+Google.Api.IDistributionOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.DistributionOrBuilder
+Google.Api.IDistributionOrBuilder;com.google.api.DistributionOrBuilder
+com.google.api.DistributionOrBuilder;com.google.api.DistributionOrBuilder
+Google.Api.IDocumentationOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.DocumentationOrBuilder
+Google.Api.IDocumentationOrBuilder;com.google.api.DocumentationOrBuilder
+com.google.api.DocumentationOrBuilder;com.google.api.DocumentationOrBuilder
+Google.Api.IDocumentationRuleOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.DocumentationRuleOrBuilder
+Google.Api.IDocumentationRuleOrBuilder;com.google.api.DocumentationRuleOrBuilder
+com.google.api.DocumentationRuleOrBuilder;com.google.api.DocumentationRuleOrBuilder
+Google.Api.IEndpointOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.EndpointOrBuilder
+Google.Api.IEndpointOrBuilder;com.google.api.EndpointOrBuilder
+com.google.api.EndpointOrBuilder;com.google.api.EndpointOrBuilder
+Google.Api.IHttpBodyOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.HttpBodyOrBuilder
+Google.Api.IHttpBodyOrBuilder;com.google.api.HttpBodyOrBuilder
+com.google.api.HttpBodyOrBuilder;com.google.api.HttpBodyOrBuilder
+Google.Api.IHttpOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.HttpOrBuilder
+Google.Api.IHttpOrBuilder;com.google.api.HttpOrBuilder
+com.google.api.HttpOrBuilder;com.google.api.HttpOrBuilder
+Google.Api.IHttpRuleOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.HttpRuleOrBuilder
+Google.Api.IHttpRuleOrBuilder;com.google.api.HttpRuleOrBuilder
+com.google.api.HttpRuleOrBuilder;com.google.api.HttpRuleOrBuilder
+Google.Api.IJwtLocationOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.JwtLocationOrBuilder
+Google.Api.IJwtLocationOrBuilder;com.google.api.JwtLocationOrBuilder
+com.google.api.JwtLocationOrBuilder;com.google.api.JwtLocationOrBuilder
+Google.Api.ILabelDescriptorOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.LabelDescriptorOrBuilder
+Google.Api.ILabelDescriptorOrBuilder;com.google.api.LabelDescriptorOrBuilder
+com.google.api.LabelDescriptorOrBuilder;com.google.api.LabelDescriptorOrBuilder
+Google.Api.ILogDescriptorOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.LogDescriptorOrBuilder
+Google.Api.ILogDescriptorOrBuilder;com.google.api.LogDescriptorOrBuilder
+com.google.api.LogDescriptorOrBuilder;com.google.api.LogDescriptorOrBuilder
+Google.Api.ILoggingOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.LoggingOrBuilder
+Google.Api.ILoggingOrBuilder;com.google.api.LoggingOrBuilder
+com.google.api.LoggingOrBuilder;com.google.api.LoggingOrBuilder
+Google.Api.IMetricDescriptorOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.MetricDescriptorOrBuilder
+Google.Api.IMetricDescriptorOrBuilder;com.google.api.MetricDescriptorOrBuilder
+com.google.api.MetricDescriptorOrBuilder;com.google.api.MetricDescriptorOrBuilder
+Google.Api.IMetricOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.MetricOrBuilder
+Google.Api.IMetricOrBuilder;com.google.api.MetricOrBuilder
+com.google.api.MetricOrBuilder;com.google.api.MetricOrBuilder
+Google.Api.IMetricRuleOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.MetricRuleOrBuilder
+Google.Api.IMetricRuleOrBuilder;com.google.api.MetricRuleOrBuilder
+com.google.api.MetricRuleOrBuilder;com.google.api.MetricRuleOrBuilder
+Google.Api.IMonitoredResourceDescriptorOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.MonitoredResourceDescriptorOrBuilder
+Google.Api.IMonitoredResourceDescriptorOrBuilder;com.google.api.MonitoredResourceDescriptorOrBuilder
+com.google.api.MonitoredResourceDescriptorOrBuilder;com.google.api.MonitoredResourceDescriptorOrBuilder
+Google.Api.IMonitoredResourceMetadataOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.MonitoredResourceMetadataOrBuilder
+Google.Api.IMonitoredResourceMetadataOrBuilder;com.google.api.MonitoredResourceMetadataOrBuilder
+com.google.api.MonitoredResourceMetadataOrBuilder;com.google.api.MonitoredResourceMetadataOrBuilder
+Google.Api.IMonitoredResourceOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.MonitoredResourceOrBuilder
+Google.Api.IMonitoredResourceOrBuilder;com.google.api.MonitoredResourceOrBuilder
+com.google.api.MonitoredResourceOrBuilder;com.google.api.MonitoredResourceOrBuilder
+Google.Api.IMonitoringOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.MonitoringOrBuilder
+Google.Api.IMonitoringOrBuilder;com.google.api.MonitoringOrBuilder
+com.google.api.MonitoringOrBuilder;com.google.api.MonitoringOrBuilder
+Google.Api.IOAuthRequirementsOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.OAuthRequirementsOrBuilder
+Google.Api.IOAuthRequirementsOrBuilder;com.google.api.OAuthRequirementsOrBuilder
+com.google.api.OAuthRequirementsOrBuilder;com.google.api.OAuthRequirementsOrBuilder
+Google.Api.IPageOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.PageOrBuilder
+Google.Api.IPageOrBuilder;com.google.api.PageOrBuilder
+com.google.api.PageOrBuilder;com.google.api.PageOrBuilder
+Google.Api.IProjectPropertiesOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.ProjectPropertiesOrBuilder
+Google.Api.IProjectPropertiesOrBuilder;com.google.api.ProjectPropertiesOrBuilder
+com.google.api.ProjectPropertiesOrBuilder;com.google.api.ProjectPropertiesOrBuilder
+Google.Api.IPropertyOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.PropertyOrBuilder
+Google.Api.IPropertyOrBuilder;com.google.api.PropertyOrBuilder
+com.google.api.PropertyOrBuilder;com.google.api.PropertyOrBuilder
+Google.Api.IQuotaLimitOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.QuotaLimitOrBuilder
+Google.Api.IQuotaLimitOrBuilder;com.google.api.QuotaLimitOrBuilder
+com.google.api.QuotaLimitOrBuilder;com.google.api.QuotaLimitOrBuilder
+Google.Api.IQuotaOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.QuotaOrBuilder
+Google.Api.IQuotaOrBuilder;com.google.api.QuotaOrBuilder
+com.google.api.QuotaOrBuilder;com.google.api.QuotaOrBuilder
+Google.Api.IResourceDescriptorOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.ResourceDescriptorOrBuilder
+Google.Api.IResourceDescriptorOrBuilder;com.google.api.ResourceDescriptorOrBuilder
+com.google.api.ResourceDescriptorOrBuilder;com.google.api.ResourceDescriptorOrBuilder
+Google.Api.IResourceReferenceOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.ResourceReferenceOrBuilder
+Google.Api.IResourceReferenceOrBuilder;com.google.api.ResourceReferenceOrBuilder
+com.google.api.ResourceReferenceOrBuilder;com.google.api.ResourceReferenceOrBuilder
+Google.Api.IServiceOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.ServiceOrBuilder
+Google.Api.IServiceOrBuilder;com.google.api.ServiceOrBuilder
+com.google.api.ServiceOrBuilder;com.google.api.ServiceOrBuilder
+Google.Api.ISourceInfoOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.SourceInfoOrBuilder
+Google.Api.ISourceInfoOrBuilder;com.google.api.SourceInfoOrBuilder
+com.google.api.SourceInfoOrBuilder;com.google.api.SourceInfoOrBuilder
+Google.Api.ISystemParameterOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.SystemParameterOrBuilder
+Google.Api.ISystemParameterOrBuilder;com.google.api.SystemParameterOrBuilder
+com.google.api.SystemParameterOrBuilder;com.google.api.SystemParameterOrBuilder
+Google.Api.ISystemParameterRuleOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.SystemParameterRuleOrBuilder
+Google.Api.ISystemParameterRuleOrBuilder;com.google.api.SystemParameterRuleOrBuilder
+com.google.api.SystemParameterRuleOrBuilder;com.google.api.SystemParameterRuleOrBuilder
+Google.Api.ISystemParametersOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.SystemParametersOrBuilder
+Google.Api.ISystemParametersOrBuilder;com.google.api.SystemParametersOrBuilder
+com.google.api.SystemParametersOrBuilder;com.google.api.SystemParametersOrBuilder
+Google.Api.IUsageOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.UsageOrBuilder
+Google.Api.IUsageOrBuilder;com.google.api.UsageOrBuilder
+com.google.api.UsageOrBuilder;com.google.api.UsageOrBuilder
+Google.Api.IUsageRuleOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.UsageRuleOrBuilder
+Google.Api.IUsageRuleOrBuilder;com.google.api.UsageRuleOrBuilder
+com.google.api.UsageRuleOrBuilder;com.google.api.UsageRuleOrBuilder
+Google.Api.Logging+ILoggingDestinationOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.Logging$LoggingDestinationOrBuilder
+Google.Api.Logging.ILoggingDestinationOrBuilder;com.google.api.Logging$LoggingDestinationOrBuilder
+com.google.api.Logging$LoggingDestinationOrBuilder;com.google.api.Logging$LoggingDestinationOrBuilder
+Google.Api.MetricDescriptor+IMetricDescriptorMetadataOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.MetricDescriptor$MetricDescriptorMetadataOrBuilder
+Google.Api.MetricDescriptor.IMetricDescriptorMetadataOrBuilder;com.google.api.MetricDescriptor$MetricDescriptorMetadataOrBuilder
+com.google.api.MetricDescriptor$MetricDescriptorMetadataOrBuilder;com.google.api.MetricDescriptor$MetricDescriptorMetadataOrBuilder
+Google.Api.Monitoring+IMonitoringDestinationOrBuilder, Xamarin.Firebase.ProtoliteWellKnownTypes;com.google.api.Monitoring$MonitoringDestinationOrBuilder
+Google.Api.Monitoring.IMonitoringDestinationOrBuilder;com.google.api.Monitoring$MonitoringDestinationOrBuilder
+com.google.api.Monitoring$MonitoringDestinationOrBuilder;com.google.api.Monitoring$MonitoringDestinationOrBuilder
 Xamarin.Forms.Platform.Android.AccessibilityDelegateAutomationId, Xamarin.Forms.Platform.Android;crc643f46942d9dd1fff9.AccessibilityDelegateAutomationId
 Xamarin.Forms.Platform.Android.AccessibilityDelegateAutomationId;crc643f46942d9dd1fff9.AccessibilityDelegateAutomationId
 xamarin.forms.platform.android.AccessibilityDelegateAutomationId;crc643f46942d9dd1fff9.AccessibilityDelegateAutomationId
@@ -2740,3 +3439,228 @@ com.google.android.gms.tasks.SuccessContinuation;com.google.android.gms.tasks.Su
 Android.Gms.Extensions.AwaitableTaskCompleteListener`1, Xamarin.GooglePlayServices.Tasks;crc6495d4f5d63cc5c882.AwaitableTaskCompleteListener_1
 Android.Gms.Extensions.AwaitableTaskCompleteListener`1;crc6495d4f5d63cc5c882.AwaitableTaskCompleteListener_1
 android.gms.extensions.AwaitableTaskCompleteListener_1;crc6495d4f5d63cc5c882.AwaitableTaskCompleteListener_1
+Xamarin.Grpc.EquivalentAddressGroup+IAttr, Xamarin.Grpc.Api;io.grpc.EquivalentAddressGroup$Attr
+Xamarin.Grpc.EquivalentAddressGroup.IAttr;io.grpc.EquivalentAddressGroup$Attr
+io.grpc.EquivalentAddressGroup$Attr;io.grpc.EquivalentAddressGroup$Attr
+Xamarin.Grpc.Grpc+ITransportAttr, Xamarin.Grpc.Api;io.grpc.Grpc$TransportAttr
+Xamarin.Grpc.Grpc.ITransportAttr;io.grpc.Grpc$TransportAttr
+io.grpc.Grpc$TransportAttr;io.grpc.Grpc$TransportAttr
+Xamarin.Grpc.IBindableService, Xamarin.Grpc.Api;io.grpc.BindableService
+Xamarin.Grpc.IBindableService;io.grpc.BindableService
+io.grpc.BindableService;io.grpc.BindableService
+Xamarin.Grpc.IClientInterceptor, Xamarin.Grpc.Api;io.grpc.ClientInterceptor
+Xamarin.Grpc.IClientInterceptor;io.grpc.ClientInterceptor
+io.grpc.ClientInterceptor;io.grpc.ClientInterceptor
+Xamarin.Grpc.ICompressor, Xamarin.Grpc.Api;io.grpc.Compressor
+Xamarin.Grpc.ICompressor;io.grpc.Compressor
+io.grpc.Compressor;io.grpc.Compressor
+Xamarin.Grpc.IDecompressor, Xamarin.Grpc.Api;io.grpc.Decompressor
+Xamarin.Grpc.IDecompressor;io.grpc.Decompressor
+io.grpc.Decompressor;io.grpc.Decompressor
+Xamarin.Grpc.IDrainable, Xamarin.Grpc.Api;io.grpc.Drainable
+Xamarin.Grpc.IDrainable;io.grpc.Drainable
+io.grpc.Drainable;io.grpc.Drainable
+Xamarin.Grpc.IExperimentalApi, Xamarin.Grpc.Api;io.grpc.ExperimentalApi
+Xamarin.Grpc.IExperimentalApi;io.grpc.ExperimentalApi
+io.grpc.ExperimentalApi;io.grpc.ExperimentalApi
+Xamarin.Grpc.IInternal, Xamarin.Grpc.Api;io.grpc.Internal
+Xamarin.Grpc.IInternal;io.grpc.Internal
+io.grpc.Internal;io.grpc.Internal
+Xamarin.Grpc.IInternalInstrumented, Xamarin.Grpc.Api;io.grpc.InternalInstrumented
+Xamarin.Grpc.IInternalInstrumented;io.grpc.InternalInstrumented
+io.grpc.InternalInstrumented;io.grpc.InternalInstrumented
+Xamarin.Grpc.IInternalNotifyOnServerBuild, Xamarin.Grpc.Api;io.grpc.InternalNotifyOnServerBuild
+Xamarin.Grpc.IInternalNotifyOnServerBuild;io.grpc.InternalNotifyOnServerBuild
+io.grpc.InternalNotifyOnServerBuild;io.grpc.InternalNotifyOnServerBuild
+Xamarin.Grpc.IInternalWithLogId, Xamarin.Grpc.Api;io.grpc.InternalWithLogId
+Xamarin.Grpc.IInternalWithLogId;io.grpc.InternalWithLogId
+io.grpc.InternalWithLogId;io.grpc.InternalWithLogId
+Xamarin.Grpc.IKnownLength, Xamarin.Grpc.Api;io.grpc.KnownLength
+Xamarin.Grpc.IKnownLength;io.grpc.KnownLength
+io.grpc.KnownLength;io.grpc.KnownLength
+Xamarin.Grpc.IProxyDetector, Xamarin.Grpc.Api;io.grpc.ProxyDetector
+Xamarin.Grpc.IProxyDetector;io.grpc.ProxyDetector
+io.grpc.ProxyDetector;io.grpc.ProxyDetector
+Xamarin.Grpc.IServerCallHandler, Xamarin.Grpc.Api;io.grpc.ServerCallHandler
+Xamarin.Grpc.IServerCallHandler;io.grpc.ServerCallHandler
+io.grpc.ServerCallHandler;io.grpc.ServerCallHandler
+Xamarin.Grpc.IServerInterceptor, Xamarin.Grpc.Api;io.grpc.ServerInterceptor
+Xamarin.Grpc.IServerInterceptor;io.grpc.ServerInterceptor
+io.grpc.ServerInterceptor;io.grpc.ServerInterceptor
+Xamarin.Grpc.LoadBalancer+ISubchannelStateListener, Xamarin.Grpc.Api;io.grpc.LoadBalancer$SubchannelStateListener
+Xamarin.Grpc.LoadBalancer.ISubchannelStateListener;io.grpc.LoadBalancer$SubchannelStateListener
+io.grpc.LoadBalancer$SubchannelStateListener;io.grpc.LoadBalancer$SubchannelStateListener
+Xamarin.Grpc.LoadBalancer+ISubchannelStateListenerImplementor, Xamarin.Grpc.Api;mono.io.grpc.LoadBalancer_SubchannelStateListenerImplementor
+Xamarin.Grpc.LoadBalancer.ISubchannelStateListenerImplementor;mono.io.grpc.LoadBalancer_SubchannelStateListenerImplementor
+mono.io.grpc.LoadBalancer_SubchannelStateListenerImplementor;mono.io.grpc.LoadBalancer_SubchannelStateListenerImplementor
+Xamarin.Grpc.Metadata+IAsciiMarshaller, Xamarin.Grpc.Api;io.grpc.Metadata$AsciiMarshaller
+Xamarin.Grpc.Metadata.IAsciiMarshaller;io.grpc.Metadata$AsciiMarshaller
+io.grpc.Metadata$AsciiMarshaller;io.grpc.Metadata$AsciiMarshaller
+Xamarin.Grpc.Metadata+IBinaryMarshaller, Xamarin.Grpc.Api;io.grpc.Metadata$BinaryMarshaller
+Xamarin.Grpc.Metadata.IBinaryMarshaller;io.grpc.Metadata$BinaryMarshaller
+io.grpc.Metadata$BinaryMarshaller;io.grpc.Metadata$BinaryMarshaller
+Xamarin.Grpc.Metadata+IBinaryStreamMarshaller, Xamarin.Grpc.Api;io.grpc.Metadata$BinaryStreamMarshaller
+Xamarin.Grpc.Metadata.IBinaryStreamMarshaller;io.grpc.Metadata$BinaryStreamMarshaller
+io.grpc.Metadata$BinaryStreamMarshaller;io.grpc.Metadata$BinaryStreamMarshaller
+Xamarin.Grpc.MethodDescriptor+IMarshaller, Xamarin.Grpc.Api;io.grpc.MethodDescriptor$Marshaller
+Xamarin.Grpc.MethodDescriptor.IMarshaller;io.grpc.MethodDescriptor$Marshaller
+io.grpc.MethodDescriptor$Marshaller;io.grpc.MethodDescriptor$Marshaller
+Xamarin.Grpc.MethodDescriptor+IPrototypeMarshaller, Xamarin.Grpc.Api;io.grpc.MethodDescriptor$PrototypeMarshaller
+Xamarin.Grpc.MethodDescriptor.IPrototypeMarshaller;io.grpc.MethodDescriptor$PrototypeMarshaller
+io.grpc.MethodDescriptor$PrototypeMarshaller;io.grpc.MethodDescriptor$PrototypeMarshaller
+Xamarin.Grpc.MethodDescriptor+IReflectableMarshaller, Xamarin.Grpc.Api;io.grpc.MethodDescriptor$ReflectableMarshaller
+Xamarin.Grpc.MethodDescriptor.IReflectableMarshaller;io.grpc.MethodDescriptor$ReflectableMarshaller
+io.grpc.MethodDescriptor$ReflectableMarshaller;io.grpc.MethodDescriptor$ReflectableMarshaller
+Xamarin.Grpc.NameResolver+IListener, Xamarin.Grpc.Api;io.grpc.NameResolver$Listener
+Xamarin.Grpc.NameResolver.IListener;io.grpc.NameResolver$Listener
+io.grpc.NameResolver$Listener;io.grpc.NameResolver$Listener
+Xamarin.Grpc.NameResolver+IListenerImplementor, Xamarin.Grpc.Api;mono.io.grpc.NameResolver_ListenerImplementor
+Xamarin.Grpc.NameResolver.IListenerImplementor;mono.io.grpc.NameResolver_ListenerImplementor
+mono.io.grpc.NameResolver_ListenerImplementor;mono.io.grpc.NameResolver_ListenerImplementor
+Xamarin.Grpc.NameResolver+IResolutionResultAttr, Xamarin.Grpc.Api;io.grpc.NameResolver$ResolutionResultAttr
+Xamarin.Grpc.NameResolver.IResolutionResultAttr;io.grpc.NameResolver$ResolutionResultAttr
+io.grpc.NameResolver$ResolutionResultAttr;io.grpc.NameResolver$ResolutionResultAttr
+Xamarin.Grpc.Context+ICancellationListener, Xamarin.Grpc.Context;io.grpc.Context$CancellationListener
+Xamarin.Grpc.Context.ICancellationListener;io.grpc.Context$CancellationListener
+io.grpc.Context$CancellationListener;io.grpc.Context$CancellationListener
+Xamarin.Grpc.Context+ICancellationListenerImplementor, Xamarin.Grpc.Context;mono.io.grpc.Context_CancellationListenerImplementor
+Xamarin.Grpc.Context.ICancellationListenerImplementor;mono.io.grpc.Context_CancellationListenerImplementor
+mono.io.grpc.Context_CancellationListenerImplementor;mono.io.grpc.Context_CancellationListenerImplementor
+Xamarin.Grpc.Stub.AbstractStub+IStubFactory, Xamarin.Grpc.Stub;io.grpc.stub.AbstractStub$StubFactory
+Xamarin.Grpc.Stub.AbstractStub.IStubFactory;io.grpc.stub.AbstractStub$StubFactory
+io.grpc.stub.AbstractStub$StubFactory;io.grpc.stub.AbstractStub$StubFactory
+Xamarin.Grpc.Stub.IClientResponseObserver, Xamarin.Grpc.Stub;io.grpc.stub.ClientResponseObserver
+Xamarin.Grpc.Stub.IClientResponseObserver;io.grpc.stub.ClientResponseObserver
+io.grpc.stub.ClientResponseObserver;io.grpc.stub.ClientResponseObserver
+Xamarin.Grpc.Stub.IStreamObserver, Xamarin.Grpc.Stub;io.grpc.stub.StreamObserver
+Xamarin.Grpc.Stub.IStreamObserver;io.grpc.stub.StreamObserver
+io.grpc.stub.StreamObserver;io.grpc.stub.StreamObserver
+Xamarin.Grpc.Stub.ServerCalls+IBidiStreamingMethod, Xamarin.Grpc.Stub;io.grpc.stub.ServerCalls$BidiStreamingMethod
+Xamarin.Grpc.Stub.ServerCalls.IBidiStreamingMethod;io.grpc.stub.ServerCalls$BidiStreamingMethod
+io.grpc.stub.ServerCalls$BidiStreamingMethod;io.grpc.stub.ServerCalls$BidiStreamingMethod
+Xamarin.Grpc.Stub.ServerCalls+IClientStreamingMethod, Xamarin.Grpc.Stub;io.grpc.stub.ServerCalls$ClientStreamingMethod
+Xamarin.Grpc.Stub.ServerCalls.IClientStreamingMethod;io.grpc.stub.ServerCalls$ClientStreamingMethod
+io.grpc.stub.ServerCalls$ClientStreamingMethod;io.grpc.stub.ServerCalls$ClientStreamingMethod
+Xamarin.Grpc.Stub.ServerCalls+IServerStreamingMethod, Xamarin.Grpc.Stub;io.grpc.stub.ServerCalls$ServerStreamingMethod
+Xamarin.Grpc.Stub.ServerCalls.IServerStreamingMethod;io.grpc.stub.ServerCalls$ServerStreamingMethod
+io.grpc.stub.ServerCalls$ServerStreamingMethod;io.grpc.stub.ServerCalls$ServerStreamingMethod
+Xamarin.Grpc.Stub.ServerCalls+IStreamingRequestMethod, Xamarin.Grpc.Stub;io.grpc.stub.ServerCalls$StreamingRequestMethod
+Xamarin.Grpc.Stub.ServerCalls.IStreamingRequestMethod;io.grpc.stub.ServerCalls$StreamingRequestMethod
+io.grpc.stub.ServerCalls$StreamingRequestMethod;io.grpc.stub.ServerCalls$StreamingRequestMethod
+Xamarin.Grpc.Stub.ServerCalls+IUnaryMethod, Xamarin.Grpc.Stub;io.grpc.stub.ServerCalls$UnaryMethod
+Xamarin.Grpc.Stub.ServerCalls.IUnaryMethod;io.grpc.stub.ServerCalls$UnaryMethod
+io.grpc.stub.ServerCalls$UnaryMethod;io.grpc.stub.ServerCalls$UnaryMethod
+Xamarin.Grpc.Stub.ServerCalls+IUnaryRequestMethod, Xamarin.Grpc.Stub;io.grpc.stub.ServerCalls$UnaryRequestMethod
+Xamarin.Grpc.Stub.ServerCalls.IUnaryRequestMethod;io.grpc.stub.ServerCalls$UnaryRequestMethod
+io.grpc.stub.ServerCalls$UnaryRequestMethod;io.grpc.stub.ServerCalls$UnaryRequestMethod
+Xamarin.Grpc.Stub.Annotations.IRpcMethod, Xamarin.Grpc.Stub;io.grpc.stub.annotations.RpcMethod
+Xamarin.Grpc.Stub.Annotations.IRpcMethod;io.grpc.stub.annotations.RpcMethod
+io.grpc.stub.annotations.RpcMethod;io.grpc.stub.annotations.RpcMethod
+Xamarin.Protobuf.Lite.AbstractMessageLite+IInternalOneOfEnum, Xamarin.Protobuf.JavaLite;com.google.protobuf.AbstractMessageLite$InternalOneOfEnum
+Xamarin.Protobuf.Lite.AbstractMessageLite.IInternalOneOfEnum;com.google.protobuf.AbstractMessageLite$InternalOneOfEnum
+com.google.protobuf.AbstractMessageLite$InternalOneOfEnum;com.google.protobuf.AbstractMessageLite$InternalOneOfEnum
+Xamarin.Protobuf.Lite.ByteString+IByteIterator, Xamarin.Protobuf.JavaLite;com.google.protobuf.ByteString$ByteIterator
+Xamarin.Protobuf.Lite.ByteString.IByteIterator;com.google.protobuf.ByteString$ByteIterator
+com.google.protobuf.ByteString$ByteIterator;com.google.protobuf.ByteString$ByteIterator
+Xamarin.Protobuf.Lite.GeneratedMessageLite+IExtendableMessageOrBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.GeneratedMessageLite$ExtendableMessageOrBuilder
+Xamarin.Protobuf.Lite.GeneratedMessageLite.IExtendableMessageOrBuilder;com.google.protobuf.GeneratedMessageLite$ExtendableMessageOrBuilder
+com.google.protobuf.GeneratedMessageLite$ExtendableMessageOrBuilder;com.google.protobuf.GeneratedMessageLite$ExtendableMessageOrBuilder
+Xamarin.Protobuf.Lite.IAnyOrBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.AnyOrBuilder
+Xamarin.Protobuf.Lite.IAnyOrBuilder;com.google.protobuf.AnyOrBuilder
+com.google.protobuf.AnyOrBuilder;com.google.protobuf.AnyOrBuilder
+Xamarin.Protobuf.Lite.IApiOrBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.ApiOrBuilder
+Xamarin.Protobuf.Lite.IApiOrBuilder;com.google.protobuf.ApiOrBuilder
+com.google.protobuf.ApiOrBuilder;com.google.protobuf.ApiOrBuilder
+Xamarin.Protobuf.Lite.IBoolValueOrBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.BoolValueOrBuilder
+Xamarin.Protobuf.Lite.IBoolValueOrBuilder;com.google.protobuf.BoolValueOrBuilder
+com.google.protobuf.BoolValueOrBuilder;com.google.protobuf.BoolValueOrBuilder
+Xamarin.Protobuf.Lite.IBytesValueOrBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.BytesValueOrBuilder
+Xamarin.Protobuf.Lite.IBytesValueOrBuilder;com.google.protobuf.BytesValueOrBuilder
+com.google.protobuf.BytesValueOrBuilder;com.google.protobuf.BytesValueOrBuilder
+Xamarin.Protobuf.Lite.IDoubleValueOrBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.DoubleValueOrBuilder
+Xamarin.Protobuf.Lite.IDoubleValueOrBuilder;com.google.protobuf.DoubleValueOrBuilder
+com.google.protobuf.DoubleValueOrBuilder;com.google.protobuf.DoubleValueOrBuilder
+Xamarin.Protobuf.Lite.IDurationOrBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.DurationOrBuilder
+Xamarin.Protobuf.Lite.IDurationOrBuilder;com.google.protobuf.DurationOrBuilder
+com.google.protobuf.DurationOrBuilder;com.google.protobuf.DurationOrBuilder
+Xamarin.Protobuf.Lite.IEmptyOrBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.EmptyOrBuilder
+Xamarin.Protobuf.Lite.IEmptyOrBuilder;com.google.protobuf.EmptyOrBuilder
+com.google.protobuf.EmptyOrBuilder;com.google.protobuf.EmptyOrBuilder
+Xamarin.Protobuf.Lite.IEnumOrBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.EnumOrBuilder
+Xamarin.Protobuf.Lite.IEnumOrBuilder;com.google.protobuf.EnumOrBuilder
+com.google.protobuf.EnumOrBuilder;com.google.protobuf.EnumOrBuilder
+Xamarin.Protobuf.Lite.IEnumValueOrBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.EnumValueOrBuilder
+Xamarin.Protobuf.Lite.IEnumValueOrBuilder;com.google.protobuf.EnumValueOrBuilder
+com.google.protobuf.EnumValueOrBuilder;com.google.protobuf.EnumValueOrBuilder
+Xamarin.Protobuf.Lite.IExperimentalApi, Xamarin.Protobuf.JavaLite;com.google.protobuf.ExperimentalApi
+Xamarin.Protobuf.Lite.IExperimentalApi;com.google.protobuf.ExperimentalApi
+com.google.protobuf.ExperimentalApi;com.google.protobuf.ExperimentalApi
+Xamarin.Protobuf.Lite.IFieldMaskOrBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.FieldMaskOrBuilder
+Xamarin.Protobuf.Lite.IFieldMaskOrBuilder;com.google.protobuf.FieldMaskOrBuilder
+com.google.protobuf.FieldMaskOrBuilder;com.google.protobuf.FieldMaskOrBuilder
+Xamarin.Protobuf.Lite.IFieldOrBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.FieldOrBuilder
+Xamarin.Protobuf.Lite.IFieldOrBuilder;com.google.protobuf.FieldOrBuilder
+com.google.protobuf.FieldOrBuilder;com.google.protobuf.FieldOrBuilder
+Xamarin.Protobuf.Lite.IFloatValueOrBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.FloatValueOrBuilder
+Xamarin.Protobuf.Lite.IFloatValueOrBuilder;com.google.protobuf.FloatValueOrBuilder
+com.google.protobuf.FloatValueOrBuilder;com.google.protobuf.FloatValueOrBuilder
+Xamarin.Protobuf.Lite.IInt32ValueOrBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.Int32ValueOrBuilder
+Xamarin.Protobuf.Lite.IInt32ValueOrBuilder;com.google.protobuf.Int32ValueOrBuilder
+com.google.protobuf.Int32ValueOrBuilder;com.google.protobuf.Int32ValueOrBuilder
+Xamarin.Protobuf.Lite.IInt64ValueOrBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.Int64ValueOrBuilder
+Xamarin.Protobuf.Lite.IInt64ValueOrBuilder;com.google.protobuf.Int64ValueOrBuilder
+com.google.protobuf.Int64ValueOrBuilder;com.google.protobuf.Int64ValueOrBuilder
+Xamarin.Protobuf.Lite.ILazyStringList, Xamarin.Protobuf.JavaLite;com.google.protobuf.LazyStringList
+Xamarin.Protobuf.Lite.ILazyStringList;com.google.protobuf.LazyStringList
+com.google.protobuf.LazyStringList;com.google.protobuf.LazyStringList
+Xamarin.Protobuf.Lite.IListValueOrBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.ListValueOrBuilder
+Xamarin.Protobuf.Lite.IListValueOrBuilder;com.google.protobuf.ListValueOrBuilder
+com.google.protobuf.ListValueOrBuilder;com.google.protobuf.ListValueOrBuilder
+Xamarin.Protobuf.Lite.IMessageLiteBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.MessageLite$Builder
+Xamarin.Protobuf.Lite.IMessageLiteBuilder;com.google.protobuf.MessageLite$Builder
+com.google.protobuf.MessageLite$Builder;com.google.protobuf.MessageLite$Builder
+Xamarin.Protobuf.Lite.IMessageLite, Xamarin.Protobuf.JavaLite;com.google.protobuf.MessageLite
+Xamarin.Protobuf.Lite.IMessageLite;com.google.protobuf.MessageLite
+com.google.protobuf.MessageLite;com.google.protobuf.MessageLite
+Xamarin.Protobuf.Lite.IMessageLiteOrBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.MessageLiteOrBuilder
+Xamarin.Protobuf.Lite.IMessageLiteOrBuilder;com.google.protobuf.MessageLiteOrBuilder
+com.google.protobuf.MessageLiteOrBuilder;com.google.protobuf.MessageLiteOrBuilder
+Xamarin.Protobuf.Lite.IMethodOrBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.MethodOrBuilder
+Xamarin.Protobuf.Lite.IMethodOrBuilder;com.google.protobuf.MethodOrBuilder
+com.google.protobuf.MethodOrBuilder;com.google.protobuf.MethodOrBuilder
+Xamarin.Protobuf.Lite.IMixinOrBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.MixinOrBuilder
+Xamarin.Protobuf.Lite.IMixinOrBuilder;com.google.protobuf.MixinOrBuilder
+com.google.protobuf.MixinOrBuilder;com.google.protobuf.MixinOrBuilder
+Xamarin.Protobuf.Lite.IOptionOrBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.OptionOrBuilder
+Xamarin.Protobuf.Lite.IOptionOrBuilder;com.google.protobuf.OptionOrBuilder
+com.google.protobuf.OptionOrBuilder;com.google.protobuf.OptionOrBuilder
+Xamarin.Protobuf.Lite.IParser, Xamarin.Protobuf.JavaLite;com.google.protobuf.Parser
+Xamarin.Protobuf.Lite.IParser;com.google.protobuf.Parser
+com.google.protobuf.Parser;com.google.protobuf.Parser
+Xamarin.Protobuf.Lite.IProtocolStringList, Xamarin.Protobuf.JavaLite;com.google.protobuf.ProtocolStringList
+Xamarin.Protobuf.Lite.IProtocolStringList;com.google.protobuf.ProtocolStringList
+com.google.protobuf.ProtocolStringList;com.google.protobuf.ProtocolStringList
+Xamarin.Protobuf.Lite.ISourceContextOrBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.SourceContextOrBuilder
+Xamarin.Protobuf.Lite.ISourceContextOrBuilder;com.google.protobuf.SourceContextOrBuilder
+com.google.protobuf.SourceContextOrBuilder;com.google.protobuf.SourceContextOrBuilder
+Xamarin.Protobuf.Lite.IStringValueOrBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.StringValueOrBuilder
+Xamarin.Protobuf.Lite.IStringValueOrBuilder;com.google.protobuf.StringValueOrBuilder
+com.google.protobuf.StringValueOrBuilder;com.google.protobuf.StringValueOrBuilder
+Xamarin.Protobuf.Lite.IStructOrBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.StructOrBuilder
+Xamarin.Protobuf.Lite.IStructOrBuilder;com.google.protobuf.StructOrBuilder
+com.google.protobuf.StructOrBuilder;com.google.protobuf.StructOrBuilder
+Xamarin.Protobuf.Lite.ITimestampOrBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.TimestampOrBuilder
+Xamarin.Protobuf.Lite.ITimestampOrBuilder;com.google.protobuf.TimestampOrBuilder
+com.google.protobuf.TimestampOrBuilder;com.google.protobuf.TimestampOrBuilder
+Xamarin.Protobuf.Lite.ITypeOrBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.TypeOrBuilder
+Xamarin.Protobuf.Lite.ITypeOrBuilder;com.google.protobuf.TypeOrBuilder
+com.google.protobuf.TypeOrBuilder;com.google.protobuf.TypeOrBuilder
+Xamarin.Protobuf.Lite.IUInt32ValueOrBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.UInt32ValueOrBuilder
+Xamarin.Protobuf.Lite.IUInt32ValueOrBuilder;com.google.protobuf.UInt32ValueOrBuilder
+com.google.protobuf.UInt32ValueOrBuilder;com.google.protobuf.UInt32ValueOrBuilder
+Xamarin.Protobuf.Lite.IUInt64ValueOrBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.UInt64ValueOrBuilder
+Xamarin.Protobuf.Lite.IUInt64ValueOrBuilder;com.google.protobuf.UInt64ValueOrBuilder
+com.google.protobuf.UInt64ValueOrBuilder;com.google.protobuf.UInt64ValueOrBuilder
+Xamarin.Protobuf.Lite.IValueOrBuilder, Xamarin.Protobuf.JavaLite;com.google.protobuf.ValueOrBuilder
+Xamarin.Protobuf.Lite.IValueOrBuilder;com.google.protobuf.ValueOrBuilder
+com.google.protobuf.ValueOrBuilder;com.google.protobuf.ValueOrBuilder

@@ -28,7 +28,7 @@ namespace TaskMenagerFinal.Droid.Dependencies
             throw new NotImplementedException();
         }
 
-        public Task<bool> Insert(Post post)
+        public bool Insert(Post post)
         {
             throw new NotImplementedException();
         }
@@ -39,6 +39,11 @@ namespace TaskMenagerFinal.Droid.Dependencies
         }
 
         public Task<bool> Update(Post post)
+        {
+            throw new NotImplementedException();
+        }
+
+        bool IFirestore.Insert(Post post)
         {
             throw new NotImplementedException();
         }

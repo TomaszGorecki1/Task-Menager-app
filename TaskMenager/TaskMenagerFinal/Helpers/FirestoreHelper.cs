@@ -11,33 +11,34 @@ namespace TaskMenagerFinal.Helpers
 
     public interface IFirestore
     {
-        Task<bool> Insert(Post post);
+        bool Insert(Post post);
         Task<bool> Delete(Post post);
         Task<bool> Update(Post post);
         Task<List<Post>> Read();
-
     }
 
     public class Firestore
     {
         private static IFirestore firestore = DependencyService.Get<IFirestore>();
 
-        public static async Task<bool> Insert(Post post)
+        public static bool Insert(Post post)
         {
-            return await firestore.Insert(post);
+            return firestore.Insert(post);
         }
+
         public static async Task<bool> Update(Post post)
         {
-                return await firestore.Update(post);
+            return await firestore.Update(post);
         }
+
         public static async Task<bool> Delete(Post post)
         {
-                return await firestore.Delete(post);
+            return await firestore.Delete(post);
         }
-        public static async Task<List<Post>> Read(Post post)
+
+        public static async Task<List<Post>> Read()
         {
             return await firestore.Read();
         }
-
     }
 }
