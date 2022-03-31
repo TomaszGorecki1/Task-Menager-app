@@ -152,9 +152,6 @@ namespace TaskMenagerFinal.iOS.Dependencies
             }
         }
 
-        bool IFirestore.Insert(Post post)
-        {
-            throw new NotImplementedException();
-        }
+        
     }
 }

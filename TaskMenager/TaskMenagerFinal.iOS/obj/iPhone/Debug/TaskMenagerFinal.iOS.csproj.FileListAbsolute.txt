@@ -70,3 +70,6 @@ D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal.iO
 D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal.iOS\obj\iPhone\Debug\TaskMenagerFinal.iOS.csproj.CopyComplete
 D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal.iOS\obj\iPhone\Debug\TaskMenagerFinal.iOS.exe
 D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal.iOS\obj\iPhone\Debug\TaskMenagerFinal.iOS.pdb
+D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal.iOS\bin\iPhone\Debug\Firebase.Auth.dll
+D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal.iOS\bin\iPhone\Debug\Firebase.CloudFirestore.dll
+D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal.iOS\bin\iPhone\Debug\Firebase.Core.dll
