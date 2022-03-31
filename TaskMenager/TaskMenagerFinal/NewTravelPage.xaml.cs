@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TaskMenagerFinal.Helpers;
 using TaskMenagerFinal.Model;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -38,6 +39,7 @@ namespace TaskMenagerFinal
                 {
                     DisplayAlert("failure", "Experience failed to be inserted", "not ok");
                 }
+              // bool result = Firestore.Insert(newPost);
             }
         }
     }

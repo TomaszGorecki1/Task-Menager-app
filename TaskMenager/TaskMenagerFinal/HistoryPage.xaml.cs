@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TaskMenagerFinal.Helpers;
 using TaskMenagerFinal.Model;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -18,16 +19,18 @@ namespace TaskMenagerFinal
             InitializeComponent();
         }
 
-        protected override void OnAppearing()
+        protected override async void OnAppearing()
         {
             base.OnAppearing();
 
-            using (SQLiteConnection conn = new SQLiteConnection(App.DatabaseLocation))
-            {
-                conn.CreateTable<Post>();
-                var posts = conn.Table<Post>().ToList();
-                postListView.ItemsSource = posts;
-            }
+            /* using (SQLiteConnection conn = new SQLiteConnection(App.DatabaseLocation))
+             {
+                 conn.CreateTable<Post>();
+                 var posts = conn.Table<Post>().ToList();
+                 postListView.ItemsSource = posts;
+             }*/
+           var posts = await Firestore.Read();
+            postListView.ItemsSource = posts;
         }
 
         private void postListView_ItemSelected(object sender, SelectedItemChangedEventArgs e)
