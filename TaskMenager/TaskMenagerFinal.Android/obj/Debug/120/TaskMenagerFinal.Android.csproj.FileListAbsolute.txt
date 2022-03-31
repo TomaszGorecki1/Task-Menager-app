@@ -719,3 +719,4 @@ D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal.An
 D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal.Android\obj\Debug\120\android\src\mono\io\grpc\LoadBalancer_SubchannelStateListenerImplementor.java
 D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal.Android\obj\Debug\120\android\src\mono\io\grpc\NameResolver_ListenerImplementor.java
 D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal.Android\obj\Debug\120\android\bin\classes2.dex
+D:\GIT\Task-Menager-app-connected-to-the-website\TaskMenager\TaskMenagerFinal.Android\obj\Debug\120\android\src\crc64da463497fc29a48d\Firestore.java

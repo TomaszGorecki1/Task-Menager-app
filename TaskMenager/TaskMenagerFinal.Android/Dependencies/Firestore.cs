@@ -21,7 +21,9 @@ using Firebase.Firestore;
 [assembly: Dependency(typeof(TaskMenagerFinal.Droid.Dependencies.Firestore))]
 namespace TaskMenagerFinal.Droid.Dependencies
 {
-   public class Firestore : IFirestore, IOnCompleteListener
+   public class Firestore : Java.Lang.Object, IFirestore, IOnCompleteListener
+
+
     {
         List<Post> posts;
         bool hasReadPosts = false;

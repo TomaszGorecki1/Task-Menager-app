@@ -1,6 +1,9 @@
 TaskMenagerFinal.Droid.MainActivity, TaskMenagerFinal.Android;crc648a8002a17f07aecc.MainActivity
 TaskMenagerFinal.Droid.MainActivity;crc648a8002a17f07aecc.MainActivity
 taskmenagerfinal.droid.MainActivity;crc648a8002a17f07aecc.MainActivity
+TaskMenagerFinal.Droid.Dependencies.Firestore, TaskMenagerFinal.Android;crc64da463497fc29a48d.Firestore
+TaskMenagerFinal.Droid.Dependencies.Firestore;crc64da463497fc29a48d.Firestore
+taskmenagerfinal.droid.dependencies.Firestore;crc64da463497fc29a48d.Firestore
 Square.OkHttp.Call+ActionCallback, Square.OkHttp;com.squareup.okhttp.Call_ActionCallback
 Square.OkHttp.Call.ActionCallback;com.squareup.okhttp.Call_ActionCallback
 com.squareup.okhttp.Call_ActionCallback;com.squareup.okhttp.Call_ActionCallback
